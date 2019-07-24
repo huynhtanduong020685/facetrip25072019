@@ -1,0 +1,90 @@
+page-edit-profile {
+
+    .content {
+        ion-auto-complete {
+            .text-input {
+                padding-left: 0;
+                margin: 0;
+                width: 100%;
+            }
+        }
+
+        .country {
+            margin-left: 16px;
+            margin-right: 16px;
+            padding-top: 2rem;
+
+            p {
+                color: #999;
+                font-size: 13px;
+                margin: 13px 8px 13px 0;
+            }
+        }
+
+        .upload-btn-wrapper {
+            position: relative;
+            overflow: hidden;
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        .btn {
+            border: 2px solid gray;
+            color: gray;
+            background-color: white;
+            padding: 8px 20px;
+            border-radius: 8px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .upload-btn-wrapper input[type=file] {
+            font-size: 100px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            opacity: 0;
+        }
+
+        .uploads {
+            margin-top: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            img {
+                width: auto;
+                max-width: 50%;
+                max-height: 200px;
+            }
+        }
+    }
+
+    .searchbar-search-icon {
+        display: none;
+        width: 0;
+        height: 0;
+    }
+
+    .searchbar-input {
+        padding: 0 0 0 20px !important;
+        -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -5px rgba(0, 0, 0, 0.2), 0 2px 1px 0 rgba(0, 0, 0, 0.12) !important;
+        box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -5px rgba(0, 0, 0, 0.2), 0 2px 1px 0 rgba(0, 0, 0, 0.12) !important;
+    }
+
+    .searchbar {
+        padding: 0 !important;
+    }
+
+    .search-css {
+        position: absolute !important;
+        z-index: 99 !important;
+        width: inherit !important;
+        left: 5% !important;
+        -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+        max-height: 45vh !important;
+        overflow-y: scroll !important;
+    }
+
+}

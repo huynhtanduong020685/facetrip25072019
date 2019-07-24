@@ -1,0 +1,177 @@
+<ion-header>
+  <ion-navbar color="color-header">
+    <ion-title>
+      FACE TRIP
+    </ion-title>
+  </ion-navbar>
+  <div class="searchbox">
+    <ion-searchbar [(ngModel)]="searchCountry" (ionClear)="onSearchClearCountry()" (search)="searchLocal()"
+      [placeholder]="'Vietnam'+'('+countryCount+')'" mode="ios" (ionInput)="filter()"></ion-searchbar>
+    <ion-searchbar [(ngModel)]="language" (ionClear)="onSearchClearLanguage()" (search)="searchLocal()"
+      placeholder="Languages" mode="ios" (ionInput)="filterLang()"></ion-searchbar>
+    <button ion-button clear icon-only color="light" (tap)="searchLocal()">
+      <ion-icon name="md-search"></ion-icon>
+    </button>
+  </div>
+
+  <div class="search-css" *ngIf="searchCountry != '' && checkClick == false">
+    <ion-list>
+      <div *ngFor=" let item of filtCountry">
+        <button ion-item *ngIf="filtCountry.length != 0" (click)="itemSelect(item)">
+          <div> {{item.country}}</div>
+          <!-- <div *ngIf="item.city === ''"> {{item.country}}</div> -->
+          <!-- <div *ngIf="item.city != ''"> {{item.country}}, {{item.city}}</div> -->
+          <!-- <div *ngIf="item.city != ''"> {{item.city}} [{{item.country}}] </div> -->
+        </button>
+      </div>
+      <div *ngFor=" let item of filtCity">
+        <button ion-item (click)="itemSelect(item)">
+          {{item.city}} [{{item.country}}]
+        </button>
+      </div>
+    </ion-list>
+  </div>
+
+  <div class="search-css" *ngIf="language != '' && checkClickLang == false">
+    <ion-list>
+      <div *ngFor=" let item of filtLang">
+        <button ion-item *ngIf="filtLang.length != 0" (click)="itemSelectLang(item)">
+          {{item.lang_name}}
+        </button>
+      </div>
+    </ion-list>
+  </div>
+
+</ion-header>
+<ion-content>
+
+
+
+  <button ion-button icon-right (tap)="askLocals()" color="danger">
+    Ask Locals
+    <ion-icon name="md-chatboxes"></ion-icon>
+  </button>
+
+  <div *ngFor="let users of localList">
+    <ion-card
+      *ngIf="users['country'] && (users['language1'] || users['language2'] || users['language3'] || users['language4']) ">
+      <ion-card-content>
+        <ion-grid>
+          <ion-row>
+            <ion-col col-3 text-center>
+              <ion-checkbox [(ngModel)]="users['checked']"></ion-checkbox>
+              <img [src]="users['picture']+'?type=normal'" alt="" (tap)="viewDetail(users)">
+            </ion-col>
+
+            <ion-col col-6 (tap)="viewDetail(users)">
+              <ion-grid>
+                <ion-row align-items-start>
+                  <ion-col col-auto>
+                    <b>{{users['name']}}</b>
+                  </ion-col>
+                  <ion-col *ngIf="users['guide_fee'] > 0; else elseguide" col-auto>
+                    <span>(GUIDE: ${{users['guide_fee']}})</span></ion-col>
+                  <ng-template #elseguide>
+                    <ion-col col-auto><span>(GUIDE: Free)</span></ion-col>
+                  </ng-template>
+                </ion-row>
+                <ion-row align-items-center>
+                  <ion-col *ngIf="users['city']; else elsecity" col-auto>
+                    <span class="label">{{users['city']}}, {{users['country']}}</span></ion-col>
+                  <ng-template #elsecity>
+                    <ion-col col-auto><span class="label">{{users['country']}}</span></ion-col>
+                  </ng-template>
+                </ion-row>
+                <ion-row align-items-end>
+                  <ion-col col-auto>
+                    <span class="langs">{{users['language1']}}</span>
+                  </ion-col>
+                  <ion-col *ngIf="users['language2']" col-auto>
+                    <span class="langs">/ {{users['language2']}}</span>
+                  </ion-col>
+                  <ion-col *ngIf="users['language3']" col-auto>
+                    <span class="langs">/ {{users['language3']}}</span>
+                  </ion-col>
+                  <ion-col *ngIf="users['language4'] " col-auto>
+                    <span class="langs">/ {{users['language4']}}</span>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+
+            </ion-col>
+            <ion-col *ngIf="users['homestay']" col-1 text-center>
+              <ion-icon  (tap)="viewDetail(users)" color="color-header" name="ios-home" class="ios-home"></ion-icon>
+            </ion-col>
+            <ion-col (tap)="viewDetail(users)" *ngIf="users['homestay']" col-2>
+              <ion-grid>
+                <ion-row align-items-start>
+                  <ion-col *ngIf="users['homestay']['price'] > 0; else elseprice">
+                    <p>${{users['homestay']['price']}}/DAY</p>
+                  </ion-col>
+                  <ng-template #elseprice>
+                    <ion-col>
+                      <P>FREE</P>
+                    </ion-col>
+                  </ng-template>
+                </ion-row>
+                <ion-row align-items-center>
+                  <ion-col *ngIf="users['homestay']['wifi']">
+                    <p>Wifi</p>
+                  </ion-col>
+                </ion-row>
+                <ion-row align-items-end>
+                  <ion-col *ngIf="users['homestay']['breakfast']">
+                    <p>Breakfast</p>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-card-content>
+    </ion-card>
+  </div>
+
+  <!-- <div *ngFor="let users of localList"  > 
+    <ion-card *ngIf="users['country'] && (users['language1'] || users['language2'] || users['language3'] || users['language4']) " >
+        <ion-card-content>
+          <ion-grid>
+            <ion-row>
+              <ion-col col-3 text-center>
+                <ion-checkbox [(ngModel)]="users['checked']"></ion-checkbox>
+                <img [src]="users['picture']+'?type=normal'" alt="" (tap)="viewDetail(users)">
+              </ion-col>
+              <ion-col col-9 (tap)="viewDetail(users)">
+                <ion-grid>
+                  <ion-row>
+                    <ion-col col-4>
+                      <b>{{users['name']}}</b>
+                    </ion-col>
+                    <ion-col col-4><span>{{users['city']}}, {{users['country']}}</span></ion-col>
+                    <ion-col col-2 text-center>
+                      <ion-icon name="ios-home"></ion-icon>
+                    </ion-col>
+                    <ion-col col-2>
+                      {{users['guide_fee']? users['guide_fee'] : 'Free'}}
+                    </ion-col>
+                  </ion-row>
+                  <ion-row>
+                    <ion-col col-8>
+                      <span class="langs">{{users['language1']}}</span>
+                      <span class="langs">{{users['language2']}}</span>
+                      <span class="langs">{{users['language3']}}</span>
+                      <span class="langs">{{users['language4']}}</span>
+                    </ion-col>
+                    <ion-col col-2 text-center>$10</ion-col>
+                    <ion-col col-2></ion-col>
+                  </ion-row>
+                </ion-grid>
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+        </ion-card-content>
+    </ion-card>
+  </div> -->
+
+
+</ion-content>

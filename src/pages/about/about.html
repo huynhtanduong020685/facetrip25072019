@@ -1,0 +1,102 @@
+  <ion-header>
+    <ion-navbar color="color-header">
+      <ion-title>
+        FACE TRIP
+      </ion-title>
+    </ion-navbar>
+  </ion-header>
+
+  <ion-content>
+    <div *ngIf='checkUser==true'>
+      <ion-card>
+        <ion-card-content>
+          <ion-grid>
+            <ion-row>
+              <ion-col col-4 text-center>
+                <img [src]="user['picture']+'?type=normal'" alt="">
+              </ion-col>
+              <ion-col col-8>
+                <ion-grid>
+                  <ion-row>
+                    <ion-col>
+                      <b>{{user['name']}}</b>
+                    </ion-col>
+                  </ion-row>
+                  <ion-row>
+                    <ion-col>
+                      <span>{{user['city']}}, {{user['country']}}</span>
+                    </ion-col>
+                  </ion-row>
+                  <ion-row>
+                    <ion-col>
+                      <span class="langs">{{user['language1']}}</span>
+                      <span class="langs">{{user['language2']}}</span>
+                      <span class="langs">{{user['language3']}}</span>
+                      <span class="langs">{{user['language4']}}</span>
+                    </ion-col>
+                  </ion-row>
+                  <ion-row>
+                    <ion-col>
+                      <span>Fee: ${{user['guide_fee']? user['guide_fee'] : 'Free'}}</span>
+                    </ion-col>
+                  </ion-row>
+                  <ion-row>
+                    <ion-col>
+                      <span *ngIf="user['meet_at_airport'] === 'true'; else elseairport">Meet at the Airport: POSSIBLE</span>
+                      <ng-template #elseairport>
+                        <span>Meet at the Airport: IMPOSSIBLE</span>
+                      </ng-template>
+                    </ion-col>
+                  </ion-row>
+                  <ion-row>
+                    <ion-col>
+                      <span>INTEREST: </span>
+                      <span (tap)="showPopup()">{{user['interest']}}</span>
+                    </ion-col>
+                  </ion-row>
+                  <ion-row>
+                    <ion-col>
+                      <span>{{user['introduction']}}</span>
+                    </ion-col>
+                  </ion-row>
+                </ion-grid>
+              </ion-col>
+            </ion-row>
+            <ion-row>
+              <ion-col text-right style="justify-content: flex-end">
+                <button clear ion-button (tap)="logout()">Logout</button>
+              </ion-col>
+              <ion-col text-right style="justify-content: flex-end">
+                <button clear ion-button (tap)="editProfile()">Edit</button>
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+        </ion-card-content>
+      </ion-card>
+      <div *ngIf="user['homestay']; else elsehomestay">
+        <ion-list>
+          <ion-item-divider>
+            Homestay
+          </ion-item-divider>
+          <ion-item (tap)="viewDetail(user['homestay'])">
+            <ion-thumbnail item-start>
+              <img [src]="user['homestay']['picture']">
+            </ion-thumbnail>
+            <h3>{{user['homestay']['location']}}</h3>
+            <p><span>Price:</span> {{user['homestay']['price']}}</p>
+            <p> <span>Wifi:</span> {{user['homestay']['wifi']?'Yes': 'No'}}</p>
+            <p> <span>Breakfast:</span> {{user['homestay']['breakfast']?'Yes': 'No'}}</p>
+            <p>{{user['homestay']['description']}}</p>
+          </ion-item>
+        </ion-list>
+      </div>
+      <ng-template #elsehomestay>
+        <ion-fab right bottom>
+          <button (tap)="viewDetail()" ion-fab color="primary">
+            <ion-icon name="md-add"></ion-icon>
+          </button>
+        </ion-fab>
+      </ng-template>
+
+    </div>
+  </ion-content>

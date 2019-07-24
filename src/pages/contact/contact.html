@@ -1,0 +1,30 @@
+<ion-header color="color-header">
+  <ion-navbar color="color-header">
+    <ion-title>
+      FACE TRIP
+    </ion-title>
+  </ion-navbar>
+  <div class="searchbox">
+    <ion-searchbar [(ngModel)]="country" (ionClear)="onSearchClearCountry()" (search)="searchChatHistory()"
+      [placeholder]="'Vietnam'+'('+countryCount+')'" mode="ios"></ion-searchbar>
+    <ion-searchbar [(ngModel)]="language" (ionClear)="onSearchClearLanguage()" (search)="searchChatHistory()"
+      placeholder="Languages" mode="ios"></ion-searchbar>
+    <button ion-button clear icon-only color="light" (tap)="searchChatHistory()">
+      <ion-icon name="md-search"></ion-icon>
+    </button>
+  </div>
+</ion-header>
+
+<ion-content>
+  <div *ngIf='checkUser==true'>
+    <ion-list>
+      <ion-item (tap)="goToChat(item)" *ngFor="let item of chatHistory">
+        <ion-avatar item-start>
+          <img [src]="item['picture']">
+        </ion-avatar>
+        <h2>{{item['name']}}</h2>
+        <button item-end ion-button round [color]="item['online']? 'secondary' : '_gray'"></button>
+      </ion-item>
+    </ion-list>
+  </div>
+</ion-content>

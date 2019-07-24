@@ -1,0 +1,116 @@
+page-local-detail {
+    .content {
+        .card {
+            padding: 0;
+            margin: 0;
+            margin-bottom: 10px;
+            width: 100%;
+
+            .card-content {
+                padding: 0;
+
+                span {
+                    color: #888;
+                    font-size: 12px;
+
+                    &.langs {
+                        padding-right: 5px;
+                    }
+
+                    &.label {
+                        color: #424242;
+                    }
+                }
+
+                .button {
+                    span {
+                        color: inherit;
+                    }
+
+                    .icon {
+                        font-size: 35px;
+                    }
+                }
+
+                .grid {
+                    .row {
+                        .col {
+                            display: flex;
+                            align-items: center;
+                            padding: 2px;
+
+                        }
+                    }
+                }
+            }
+        }
+
+        .list {
+            .item {
+                p {
+                    white-space: normal;
+
+                    span {
+                        color: #000;
+                    }
+                }
+            }
+        }
+    }
+
+    .star {
+        button {
+            margin: 0 !important;
+        }
+    }
+
+    .star-show {
+        display: flex;
+        width: 100%;
+
+        button {
+            opacity: 1 !important;
+            margin: 0 !important;
+            padding-bottom: 3.5px !important;
+        }
+    }
+
+    .ratingcss {
+        text-align: center;
+    }
+
+    .range-knob-handle {
+        opacity: 0 !important;
+    }
+
+    .range {
+        padding: 0 !important;
+        height: 5% !important;
+    }
+    .interest{
+        border: 2px;
+        color: #000;
+    }
+
+    .range-bar {
+        height: 2vh !important;
+        // background: #ffffff ;
+        display: none;
+    }
+
+    .range-bar-active {
+        display: block !important;
+    }
+
+    .range-disabled {
+        opacity: 1 !important;
+    }
+
+    ion-icon[small] {
+        margin: 0 1% 0 0 !important;
+    }
+    .col{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}

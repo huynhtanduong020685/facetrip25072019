@@ -1,0 +1,23 @@
+page-contact {
+    .header {
+        .searchbox {
+          display: flex;
+          background: #5285be;
+          .button{
+            min-width: 35px;
+          }
+        }
+        .searchbar{
+          background: transparent;
+        }
+      }
+      .content{
+          .item{
+              .button{
+                  width: 10px;
+                  height: 10px;
+                  padding: 0;
+              }
+          }
+      }
+}

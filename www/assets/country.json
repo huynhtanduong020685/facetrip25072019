@@ -1,0 +1,10338 @@
+[
+  {
+    "country": "Andorra",
+    "city": "Escaldes-Engordany"
+  },
+  {
+    "country": "Andorra",
+    "city": "Andorra la Vella"
+  }, 
+  {
+    "country": "United Arab Emirates",
+    "city": "Umm al Qaywayn"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Raʼs al Khaymah"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Ash Shāriqah"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Dubai"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Al Fujayrah"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi"
+  },
+  {
+    "country": "United Arab Emirates",
+    "city": "Ajman"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Nīmrūz"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Takhār"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Herat"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Jowzjān"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Ghowr"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Sar-e Pol"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Samangān"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kunduz"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Wilāyat-e Baghlān"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Faryab"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Laghmān"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Balkh"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Helmand"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Khowst"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kandahār"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Nangarhār"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Parvān"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Badghis"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Ghaznī"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Paktia"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Badakhshan"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Farah"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Lowgar"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Bāmīān"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Konar"
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Panjshir"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "city": "Saint John"
+  },
+  {
+    "country": "Anguilla",
+    "city": "N/A"
+  },
+  {
+    "country": "Albania",
+    "city": "Vlorë"
+  },
+  {
+    "country": "Albania",
+    "city": "Kukës"
+  },
+  {
+    "country": "Albania",
+    "city": "Korçë"
+  },
+  {
+    "country": "Albania",
+    "city": "Gjirokastër"
+  },
+  {
+    "country": "Albania",
+    "city": "Elbasan"
+  },
+  {
+    "country": "Albania",
+    "city": "Dibër"
+  },
+  {
+    "country": "Albania",
+    "city": "Tiranë"
+  },
+  {
+    "country": "Albania",
+    "city": "Shkodër"
+  },
+  {
+    "country": "Albania",
+    "city": "Fier"
+  },
+  {
+    "country": "Albania",
+    "city": "Lezhë"
+  },
+  {
+    "country": "Albania",
+    "city": "Berat"
+  },
+  {
+    "country": "Albania",
+    "city": "Durrës"
+  },
+  {
+    "country": "Armenia",
+    "city": "Syunik Province"
+  },
+  {
+    "country": "Armenia",
+    "city": "Ararat Province"
+  },
+  {
+    "country": "Armenia",
+    "city": "Yerevan"
+  },
+  {
+    "country": "Armenia",
+    "city": "Armavir Province"
+  },
+  {
+    "country": "Armenia",
+    "city": "Lori Province"
+  },
+  {
+    "country": "Armenia",
+    "city": "Gegharkunik Province"
+  },
+  {
+    "country": "Armenia",
+    "city": "Kotayk Province"
+  },
+  {
+    "country": "Armenia",
+    "city": "Shirak Province"
+  },
+  {
+    "country": "Armenia",
+    "city": "Aragatsotn Province"
+  },
+  {
+    "country": "Angola",
+    "city": "Lunda Sul"
+  },
+  {
+    "country": "Angola",
+    "city": "Lunda Norte"
+  },
+  {
+    "country": "Angola",
+    "city": "Moxico"
+  },
+  {
+    "country": "Angola",
+    "city": "Uíge"
+  },
+  {
+    "country": "Angola",
+    "city": "Zaire"
+  },
+  {
+    "country": "Angola",
+    "city": "Cuanza Norte"
+  },
+  {
+    "country": "Angola",
+    "city": "Malanje"
+  },
+  {
+    "country": "Angola",
+    "city": "Luanda"
+  },
+  {
+    "country": "Angola",
+    "city": "Bengo"
+  },
+  {
+    "country": "Angola",
+    "city": "Cabinda"
+  },
+  {
+    "country": "Angola",
+    "city": "Cuanza Sul"
+  },
+  {
+    "country": "Angola",
+    "city": "Namibe"
+  },
+  {
+    "country": "Angola",
+    "city": "Cuando Cubango"
+  },
+  {
+    "country": "Angola",
+    "city": "Huíla"
+  },
+  {
+    "country": "Angola",
+    "city": "Huambo"
+  },
+  {
+    "country": "Angola",
+    "city": "Benguela"
+  },
+  {
+    "country": "Angola",
+    "city": "Bié"
+  },
+  {
+    "country": "Argentina",
+    "city": "Buenos Aires"
+  },
+  {
+    "country": "Argentina",
+    "city": "Santa Fe"
+  },
+  {
+    "country": "Argentina",
+    "city": "Buenos Aires F.D."
+  },
+  {
+    "country": "Argentina",
+    "city": "Entre Rios"
+  },
+  {
+    "country": "Argentina",
+    "city": "Misiones"
+  },
+  {
+    "country": "Argentina",
+    "city": "Corrientes"
+  },
+  {
+    "country": "Argentina",
+    "city": "Chaco"
+  },
+  {
+    "country": "Argentina",
+    "city": "Formosa"
+  },
+  {
+    "country": "Argentina",
+    "city": "Neuquen"
+  },
+  {
+    "country": "Argentina",
+    "city": "Tucumán"
+  },
+  {
+    "country": "Argentina",
+    "city": "Rio Negro"
+  },
+  {
+    "country": "Argentina",
+    "city": "San Juan"
+  },
+  {
+    "country": "Argentina",
+    "city": "Cordoba"
+  },
+  {
+    "country": "Argentina",
+    "city": "Tierra del Fuego"
+  },
+  {
+    "country": "Argentina",
+    "city": "Chubut"
+  },
+  {
+    "country": "Argentina",
+    "city": "Santiago del Estero"
+  },
+  {
+    "country": "Argentina",
+    "city": "Salta"
+  },
+  {
+    "country": "Argentina",
+    "city": "La Pampa"
+  },
+  {
+    "country": "Argentina",
+    "city": "Jujuy"
+  },
+  {
+    "country": "Argentina",
+    "city": "Mendoza"
+  },
+  {
+    "country": "Argentina",
+    "city": "San Luis"
+  },
+  {
+    "country": "Argentina",
+    "city": "Catamarca"
+  },
+  {
+    "country": "Argentina",
+    "city": "Santa Cruz"
+  },
+  {
+    "country": "Argentina",
+    "city": "La Rioja"
+  },
+  {
+    "country": "American Samoa",
+    "city": "Eastern District"
+  },
+  {
+    "country": "Austria",
+    "city": "Carinthia"
+  },
+  {
+    "country": "Austria",
+    "city": "Lower Austria"
+  },
+  {
+    "country": "Austria",
+    "city": "Vienna"
+  },
+  {
+    "country": "Austria",
+    "city": "Upper Austria"
+  },
+  {
+    "country": "Austria",
+    "city": "Salzburg"
+  },
+  {
+    "country": "Austria",
+    "city": "Vorarlberg"
+  },
+  {
+    "country": "Austria",
+    "city": "Styria"
+  },
+  {
+    "country": "Austria",
+    "city": "Tyrol"
+  },
+  {
+    "country": "Australia",
+    "city": "South Australia"
+  },
+  {
+    "country": "Australia",
+    "city": "Western Australia"
+  },
+  {
+    "country": "Australia",
+    "city": "Queensland"
+  },
+  {
+    "country": "Australia",
+    "city": "Northern Territory"
+  },
+  {
+    "country": "Australia",
+    "city": "Victoria"
+  },
+  {
+    "country": "Australia",
+    "city": "New South Wales"
+  },
+  {
+    "country": "Australia",
+    "city": "Tasmania"
+  },
+  {
+    "country": "Australia",
+    "city": "Australian Capital Territory"
+  },
+  {
+    "country": "Aland Islands",
+    "city": "Mariehamns stad"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Xankǝndi"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Saatlı"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Şuşa"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Salyan"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Neftçala"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Nakhichevan"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Lənkəran"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "İmişli"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Füzuli"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Jalilabad"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Bilǝsuvar"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Beyləqan"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Astara"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Shirvan"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Ağdam"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Zaqatala"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Baki"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Yevlax City"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Goygol Rayon"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Xaçmaz"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Ucar"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Tǝrtǝr"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Sumqayit"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Şǝmkir"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Şamaxı"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Shaki City"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Sabirabad"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Qusar"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Quba"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Hacıqabul"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Qazax"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Mingǝcevir"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Kürdǝmir"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Abşeron"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Göyçay"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Gǝncǝ"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Shabran"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Bǝrdǝ"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Ağsu"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Ağdaş"
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Ağcabǝdi"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "city": "Federation of Bosnia and Herzegovina"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "city": "Republika Srpska"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "city": "Brčko"
+  },
+  {
+    "country": "Barbados",
+    "city": "Saint Michael"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Rangpur Division"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Chittagong"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Dhaka"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Sylhet"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Rājshāhi"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Khulna"
+  },
+  {
+    "country": "Bangladesh",
+    "city": "Barisāl"
+  },
+  {
+    "country": "Belgium",
+    "city": "Flanders"
+  },
+  {
+    "country": "Belgium",
+    "city": "Wallonia"
+  },
+  {
+    "country": "Belgium",
+    "city": "Brussels Capital"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Plateau-Central"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Nord"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Boucle du Mouhoun"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Centre-Est"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Centre-Ouest"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Centre-Sud"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Centre"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Centre-Nord"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "High-Basins"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Est"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Sahel"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Cascades"
+  },
+  {
+    "country": "Burkina Faso",
+    "city": "Southwest"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Yambol"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Vratsa"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Vidin"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Pazardzhik"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Veliko Tŭrnovo"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Varna"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Tŭrgovishte"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Lovech"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Dobrich"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Khaskovo"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Stara Zagora"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Kyustendil"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Sofia-Capital"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Smolyan"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Sliven"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Silistra"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Shumen"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Gabrovo"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Blagoevgrad"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Sofiya"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Ruse"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Razgrad"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Plovdiv"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Pleven"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Pernik"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Montana"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Kŭrdzhali"
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Burgas"
+  },
+  {
+    "country": "Bahrain",
+    "city": "Manama"
+  },
+  {
+    "country": "Bahrain",
+    "city": "Southern Governorate"
+  },
+  {
+    "country": "Bahrain",
+    "city": "Central Governorate"
+  },
+  {
+    "country": "Bahrain",
+    "city": "Muharraq"
+  },
+  {
+    "country": "Burundi",
+    "city": "Makamba"
+  },
+  {
+    "country": "Burundi",
+    "city": "Bururi"
+  },
+  {
+    "country": "Burundi",
+    "city": "Bujumbura Mairie"
+  },
+  {
+    "country": "Burundi",
+    "city": "Muramvya"
+  },
+  {
+    "country": "Burundi",
+    "city": "Gitega"
+  },
+  {
+    "country": "Burundi",
+    "city": "Ruyigi"
+  },
+  {
+    "country": "Burundi",
+    "city": "Ngozi"
+  },
+  {
+    "country": "Burundi",
+    "city": "Kayanza"
+  },
+  {
+    "country": "Burundi",
+    "city": "Muyinga"
+  },
+  {
+    "country": "Burundi",
+    "city": "Rutana"
+  },
+  {
+    "country": "Benin",
+    "city": "Borgou"
+  },
+  {
+    "country": "Benin",
+    "city": "Atakora"
+  },
+  {
+    "country": "Benin",
+    "city": "Collines"
+  },
+  {
+    "country": "Benin",
+    "city": "Plateau"
+  },
+  {
+    "country": "Benin",
+    "city": "Quémé"
+  },
+  {
+    "country": "Benin",
+    "city": "Atlantique"
+  },
+  {
+    "country": "Benin",
+    "city": "Mono"
+  },
+  {
+    "country": "Benin",
+    "city": "Alibori"
+  },
+  {
+    "country": "Benin",
+    "city": "Kouffo"
+  },
+  {
+    "country": "Benin",
+    "city": "Donga"
+  },
+  {
+    "country": "Benin",
+    "city": "Zou"
+  },
+  {
+    "country": "Benin",
+    "city": "Littoral"
+  },
+  {
+    "country": "Bermuda",
+    "city": "Hamilton city"
+  },
+  {
+    "country": "Brunei",
+    "city": "Tutong"
+  },
+  {
+    "country": "Brunei",
+    "city": "Belait"
+  },
+  {
+    "country": "Brunei",
+    "city": "Brunei and Muara"
+  },
+  {
+    "country": "Bolivia",
+    "city": "Tarija"
+  },
+  {
+    "country": "Bolivia",
+    "city": "Potosí"
+  },
+  {
+    "country": "Bolivia",
+    "city": "El Beni"
+  },
+  {
+    "country": "Bolivia",
+    "city": "Chuquisaca"
+  },
+  {
+    "country": "Bolivia",
+    "city": "Cochabamba"
+  },
+  {
+    "country": "Bolivia",
+    "city": "Oruro"
+  },
+  {
+    "country": "Bolivia",
+    "city": "La Paz"
+  },
+  {
+    "country": "Bolivia",
+    "city": "Pando"
+  },
+  {
+    "country": "Bonaire, Saint Eustatius and Saba",
+    "city": "Bonaire"
+  },
+  {
+    "country": "Brazil",
+    "city": "Maranhão"
+  },
+  {
+    "country": "Brazil",
+    "city": "Pernambuco"
+  },
+  {
+    "country": "Brazil",
+    "city": "Pará"
+  },
+  {
+    "country": "Brazil",
+    "city": "Paraíba"
+  },
+  {
+    "country": "Brazil",
+    "city": "Ceará"
+  },
+  {
+    "country": "Brazil",
+    "city": "Alagoas"
+  },
+  {
+    "country": "Brazil",
+    "city": "Piauí"
+  },
+  {
+    "country": "Brazil",
+    "city": "Rio Grande do Norte"
+  },
+  {
+    "country": "Brazil",
+    "city": "Amapá"
+  },
+  {
+    "country": "Brazil",
+    "city": "Bahia"
+  },
+  {
+    "country": "Brazil",
+    "city": "Amazonas"
+  },
+  {
+    "country": "Brazil",
+    "city": "Tocantins"
+  },
+  {
+    "country": "Brazil",
+    "city": "Santa Catarina"
+  },
+  {
+    "country": "Brazil",
+    "city": "São Paulo"
+  },
+  {
+    "country": "Brazil",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "country": "Brazil",
+    "city": "Espírito Santo"
+  },
+  {
+    "country": "Brazil",
+    "city": "Minas Gerais"
+  },
+  {
+    "country": "Brazil",
+    "city": "Rio Grande do Sul"
+  },
+  {
+    "country": "Brazil",
+    "city": "Paraná"
+  },
+  {
+    "country": "Brazil",
+    "city": "Mato Grosso"
+  },
+  {
+    "country": "Brazil",
+    "city": "Goiás"
+  },
+  {
+    "country": "Brazil",
+    "city": "Mato Grosso do Sul"
+  },
+  {
+    "country": "Brazil",
+    "city": "Sergipe"
+  },
+  {
+    "country": "Brazil",
+    "city": "Federal District"
+  },
+  {
+    "country": "Brazil",
+    "city": "Acre"
+  },
+  {
+    "country": "Brazil",
+    "city": "Rondônia"
+  },
+  {
+    "country": "Brazil",
+    "city": "Roraima"
+  },
+  {
+    "country": "Bahamas",
+    "city": "New Providence"
+  },
+  {
+    "country": "Bahamas",
+    "city": "Freeport"
+  },
+  {
+    "country": "Bhutan",
+    "city": "Thimphu"
+  },
+  {
+    "country": "Bhutan",
+    "city": "Punakha"
+  },
+  {
+    "country": "Bhutan",
+    "city": "Chukha District"
+  },
+  {
+    "country": "Bhutan",
+    "city": "Chirang"
+  },
+  {
+    "country": "Botswana",
+    "city": "Central"
+  },
+  {
+    "country": "Botswana",
+    "city": "Kweneng"
+  },
+  {
+    "country": "Botswana",
+    "city": "South East"
+  },
+  {
+    "country": "Botswana",
+    "city": "Southern"
+  },
+  {
+    "country": "Botswana",
+    "city": "Kgatleng"
+  },
+  {
+    "country": "Botswana",
+    "city": "North West"
+  },
+  {
+    "country": "Botswana",
+    "city": "North East"
+  },
+  {
+    "country": "Belarus",
+    "city": "Minsk"
+  },
+  {
+    "country": "Belarus",
+    "city": "Gomel"
+  },
+  {
+    "country": "Belarus",
+    "city": "Vitebsk"
+  },
+  {
+    "country": "Belarus",
+    "city": "Grodnenskaya"
+  },
+  {
+    "country": "Belarus",
+    "city": "Brest"
+  },
+  {
+    "country": "Belarus",
+    "city": "Mogilev"
+  },
+  {
+    "country": "Belarus",
+    "city": "Minsk City"
+  },
+  {
+    "country": "Belize",
+    "city": "Cayo"
+  },
+  {
+    "country": "Belize",
+    "city": "Orange Walk"
+  },
+  {
+    "country": "Belize",
+    "city": "Belize"
+  },
+  {
+    "country": "Canada",
+    "city": "British Columbia"
+  },
+  {
+    "country": "Canada",
+    "city": "Alberta"
+  },
+  {
+    "country": "Canada",
+    "city": "Ontario"
+  },
+  {
+    "country": "Canada",
+    "city": "Quebec"
+  },
+  {
+    "country": "Canada",
+    "city": "Manitoba"
+  },
+  {
+    "country": "Canada",
+    "city": "Prince Edward Island"
+  },
+  {
+    "country": "Canada",
+    "city": "Newfoundland and Labrador"
+  },
+  {
+    "country": "Canada",
+    "city": "Nova Scotia"
+  },
+  {
+    "country": "Canada",
+    "city": "New Brunswick"
+  },
+  {
+    "country": "Canada",
+    "city": "Saskatchewan"
+  },
+  {
+    "country": "Canada",
+    "city": "Yukon"
+  },
+  {
+    "country": "Canada",
+    "city": "Northwest Territories"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Eastern Province"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "South Kivu"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Kasaï-Occidental"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Nord Kivu"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Kasaï-Oriental"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Équateur"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Katanga"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Maniema"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Bas-Congo"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Bandundu"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "city": "Kinshasa"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Basse-Kotto"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Ouaka"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Haute-Kotto"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Mbomou"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Kémo"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Ouham-Pendé"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Sangha-Mbaéré"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Lobaye"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Nana-Grébizi"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Ombella-Mpoko"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Mambéré-Kadéï"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Nana-Mambéré"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Ouham"
+  },
+  {
+    "country": "Central African Republic",
+    "city": "Bangui"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Lékoumou"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Pointe-Noire"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Cuvette"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Sangha"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Niari"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Bouenza"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Likouala"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Plateaux"
+  },
+  {
+    "country": "Republic of the Congo",
+    "city": "Brazzaville"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Zurich"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Zug"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Vaud"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Saint Gallen"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Aargau"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Geneva"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Bern"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Valais"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Schaffhausen"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Solothurn"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Neuchâtel"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Basel-Landschaft"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Lucerne"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Ticino"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Thurgau"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Appenzell Ausserrhoden"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Fribourg"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Grisons"
+  },
+  {
+    "country": "Switzerland",
+    "city": "Basel-City"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Marahoué"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Lacs"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Haut-Sassandra"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Bafing"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Savanes"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Lagunes"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Zanzan"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Bas-Sassandra"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Vallée du Bandama"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Fromager"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Denguélé"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Worodougou"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Dix-Huit Montagnes"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Sud-Bandama"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Sud-Comoé"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Nʼzi-Comoé"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Moyen-Comoé"
+  },
+  {
+    "country": "Ivory Coast",
+    "city": "Agnéby"
+  },
+  {
+    "country": "Chile",
+    "city": "Valparaíso"
+  },
+  {
+    "country": "Chile",
+    "city": "Araucanía"
+  },
+  {
+    "country": "Chile",
+    "city": "Atacama"
+  },
+  {
+    "country": "Chile",
+    "city": "Los Ríos"
+  },
+  {
+    "country": "Chile",
+    "city": "Biobío"
+  },
+  {
+    "country": "Chile",
+    "city": "Antofagasta"
+  },
+  {
+    "country": "Chile",
+    "city": "Maule"
+  },
+  {
+    "country": "Chile",
+    "city": "Santiago Metropolitan"
+  },
+  {
+    "country": "Chile",
+    "city": "O'Higgins"
+  },
+  {
+    "country": "Chile",
+    "city": "Magallanes"
+  },
+  {
+    "country": "Chile",
+    "city": "Los Lagos"
+  },
+  {
+    "country": "Chile",
+    "city": "Aisén"
+  },
+  {
+    "country": "Chile",
+    "city": "Coquimbo"
+  },
+  {
+    "country": "Chile",
+    "city": "Tarapacá"
+  },
+  {
+    "country": "Chile",
+    "city": "Arica y Parinacota"
+  },
+  {
+    "country": "Cameroon",
+    "city": "Far North"
+  },
+  {
+    "country": "Cameroon",
+    "city": "North-West Province"
+  },
+  {
+    "country": "Cameroon",
+    "city": "West"
+  },
+  {
+    "country": "Cameroon",
+    "city": "South-West Province"
+  },
+  {
+    "country": "Cameroon",
+    "city": "Adamaoua"
+  },
+  {
+    "country": "Cameroon",
+    "city": "North Province"
+  },
+  {
+    "country": "Cameroon",
+    "city": "South Province"
+  },
+  {
+    "country": "Cameroon",
+    "city": "East"
+  },
+  {
+    "country": "China",
+    "city": "Tibet Autonomous Region"
+  },
+  {
+    "country": "China",
+    "city": "Gansu Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Xinjiang Uygur Zizhiqu"
+  },
+  {
+    "country": "China",
+    "city": "Guizhou Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Shandong Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Sichuan"
+  },
+  {
+    "country": "China",
+    "city": "Hunan"
+  },
+  {
+    "country": "China",
+    "city": "Henan Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Shanghai Shi"
+  },
+  {
+    "country": "China",
+    "city": "Zhejiang Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Liaoning"
+  },
+  {
+    "country": "China",
+    "city": "Jiangsu"
+  },
+  {
+    "country": "China",
+    "city": "Yunnan"
+  },
+  {
+    "country": "China",
+    "city": "Hubei"
+  },
+  {
+    "country": "China",
+    "city": "Guangdong"
+  },
+  {
+    "country": "China",
+    "city": "Hebei"
+  },
+  {
+    "country": "China",
+    "city": "Fujian"
+  },
+  {
+    "country": "China",
+    "city": "Shaanxi"
+  },
+  {
+    "country": "China",
+    "city": "Shanxi Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Guangxi Zhuangzu Zizhiqu"
+  },
+  {
+    "country": "China",
+    "city": "Chongqing Shi"
+  },
+  {
+    "country": "China",
+    "city": "Anhui Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Ningxia Huizu Zizhiqu"
+  },
+  {
+    "country": "China",
+    "city": "Jiangxi Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Tianjin Shi"
+  },
+  {
+    "country": "China",
+    "city": "Hainan"
+  },
+  {
+    "country": "China",
+    "city": "Qinghai Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Inner Mongolia"
+  },
+  {
+    "country": "China",
+    "city": "Beijing"
+  },
+  {
+    "country": "China",
+    "city": "Jilin Sheng"
+  },
+  {
+    "country": "China",
+    "city": "Heilongjiang Sheng"
+  },
+  {
+    "country": "Colombia",
+    "city": "Cundinamarca"
+  },
+  {
+    "country": "Colombia",
+    "city": "Valle del Cauca"
+  },
+  {
+    "country": "Colombia",
+    "city": "Antioquia"
+  },
+  {
+    "country": "Colombia",
+    "city": "Casanare"
+  },
+  {
+    "country": "Colombia",
+    "city": "Caldas"
+  },
+  {
+    "country": "Colombia",
+    "city": "Meta"
+  },
+  {
+    "country": "Colombia",
+    "city": "Norte de Santander"
+  },
+  {
+    "country": "Colombia",
+    "city": "La Guajira"
+  },
+  {
+    "country": "Colombia",
+    "city": "Cesar"
+  },
+  {
+    "country": "Colombia",
+    "city": "Bolívar"
+  },
+  {
+    "country": "Colombia",
+    "city": "Nariño"
+  },
+  {
+    "country": "Colombia",
+    "city": "Boyacá"
+  },
+  {
+    "country": "Colombia",
+    "city": "Sucre"
+  },
+  {
+    "country": "Colombia",
+    "city": "Córdoba"
+  },
+  {
+    "country": "Colombia",
+    "city": "Arauca"
+  },
+  {
+    "country": "Colombia",
+    "city": "Atlántico"
+  },
+  {
+    "country": "Colombia",
+    "city": "Santander"
+  },
+  {
+    "country": "Colombia",
+    "city": "Risaralda"
+  },
+  {
+    "country": "Colombia",
+    "city": "Cauca"
+  },
+  {
+    "country": "Colombia",
+    "city": "Magdalena"
+  },
+  {
+    "country": "Colombia",
+    "city": "Archipiélago de San Andrés, Providencia y Santa Catalina"
+  },
+  {
+    "country": "Colombia",
+    "city": "Quindío"
+  },
+  {
+    "country": "Colombia",
+    "city": "Chocó"
+  },
+  {
+    "country": "Colombia",
+    "city": "Putumayo"
+  },
+  {
+    "country": "Colombia",
+    "city": "Huila"
+  },
+  {
+    "country": "Colombia",
+    "city": "Tolima"
+  },
+  {
+    "country": "Colombia",
+    "city": "Caquetá"
+  },
+  {
+    "country": "Colombia",
+    "city": "Bogota D.C."
+  },
+  {
+    "country": "Colombia",
+    "city": "Guaviare"
+  },
+  {
+    "country": "Costa Rica",
+    "city": "Cartago"
+  },
+  {
+    "country": "Costa Rica",
+    "city": "San José"
+  },
+  {
+    "country": "Costa Rica",
+    "city": "Limón"
+  },
+  {
+    "country": "Costa Rica",
+    "city": "Alajuela"
+  },
+  {
+    "country": "Costa Rica",
+    "city": "Heredia"
+  },
+  {
+    "country": "Costa Rica",
+    "city": "Puntarenas"
+  },
+  {
+    "country": "Costa Rica",
+    "city": "Guanacaste"
+  },
+  {
+    "country": "Cuba",
+    "city": "Granma"
+  },
+  {
+    "country": "Cuba",
+    "city": "Sancti Spíritus"
+  },
+  {
+    "country": "Cuba",
+    "city": "Pinar del Río"
+  },
+  {
+    "country": "Cuba",
+    "city": "Camagüey"
+  },
+  {
+    "country": "Cuba",
+    "city": "Ciego de Ávila"
+  },
+  {
+    "country": "Cuba",
+    "city": "Matanzas"
+  },
+  {
+    "country": "Cuba",
+    "city": "Holguín"
+  },
+  {
+    "country": "Cuba",
+    "city": "Villa Clara"
+  },
+  {
+    "country": "Cuba",
+    "city": "La Habana"
+  },
+  {
+    "country": "Cuba",
+    "city": "Santiago de Cuba"
+  },
+  {
+    "country": "Cuba",
+    "city": "Mayabeque"
+  },
+  {
+    "country": "Cuba",
+    "city": "Artemisa"
+  },
+  {
+    "country": "Cuba",
+    "city": "Cienfuegos"
+  },
+  {
+    "country": "Cuba",
+    "city": "Guantánamo"
+  },
+  {
+    "country": "Cuba",
+    "city": "Las Tunas"
+  },
+  {
+    "country": "Cuba",
+    "city": "Isla de la Juventud"
+  },
+  {
+    "country": "Cape Verde",
+    "city": "Sal"
+  },
+  {
+    "country": "Cape Verde",
+    "city": "Praia"
+  },
+  {
+    "country": "Cape Verde",
+    "city": "São Vicente"
+  },
+  {
+    "country": "Cape Verde",
+    "city": "Santa Catarina do Fogo"
+  },
+  {
+    "country": "Cyprus",
+    "city": "Ammochostos"
+  },
+  {
+    "country": "Cyprus",
+    "city": "Pafos"
+  },
+  {
+    "country": "Cyprus",
+    "city": "Lefkosia"
+  },
+  {
+    "country": "Cyprus",
+    "city": "Limassol"
+  },
+  {
+    "country": "Cyprus",
+    "city": "Larnaka"
+  },
+  {
+    "country": "Cyprus",
+    "city": "Keryneia"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Královéhradecký"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "South Moravian"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Zlín"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Vysočina"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Ústecký"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Pardubický"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Moravskoslezský"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Jihočeský"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Olomoucký"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Karlovarský"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Central Bohemia"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Praha"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Plzeňský"
+  },
+  {
+    "country": "Czech Republic",
+    "city": "Liberecký"
+  },
+  {
+    "country": "Germany",
+    "city": "Saxony"
+  },
+  {
+    "country": "Germany",
+    "city": "Rheinland-Pfalz"
+  },
+  {
+    "country": "Germany",
+    "city": "North Rhine-Westphalia"
+  },
+  {
+    "country": "Germany",
+    "city": "Brandenburg"
+  },
+  {
+    "country": "Germany",
+    "city": "Bavaria"
+  },
+  {
+    "country": "Germany",
+    "city": "Saxony-Anhalt"
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "country": "Germany",
+    "city": "Lower Saxony"
+  },
+  {
+    "country": "Germany",
+    "city": "Hesse"
+  },
+  {
+    "country": "Germany",
+    "city": "Mecklenburg-Vorpommern"
+  },
+  {
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  {
+    "country": "Germany",
+    "city": "Baden-Württemberg"
+  },
+  {
+    "country": "Germany",
+    "city": "Thuringia"
+  },
+  {
+    "country": "Germany",
+    "city": "Schleswig-Holstein"
+  },
+  {
+    "country": "Germany",
+    "city": "Saarland"
+  },
+  {
+    "country": "Germany",
+    "city": "Bremen"
+  },
+  {
+    "country": "Djibouti",
+    "city": "Tadjourah"
+  },
+  {
+    "country": "Djibouti",
+    "city": "Obock"
+  },
+  {
+    "country": "Djibouti",
+    "city": "Djibouti"
+  },
+  {
+    "country": "Djibouti",
+    "city": "Ali Sabieh"
+  },
+  {
+    "country": "Denmark",
+    "city": "Central Jutland"
+  },
+  {
+    "country": "Denmark",
+    "city": "South Denmark"
+  },
+  {
+    "country": "Denmark",
+    "city": "Capital Region"
+  },
+  {
+    "country": "Denmark",
+    "city": "Zealand"
+  },
+  {
+    "country": "Denmark",
+    "city": "North Denmark"
+  },
+  {
+    "country": "Dominica",
+    "city": "Saint George"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Nacional"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Santiago"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "San Cristóbal"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "El Seíbo"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Barahona"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "San Pedro de Macorís"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "San José de Ocoa"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Duarte"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Monte Cristi"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Puerto Plata"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "La Altagracia"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Hermanas Mirabal"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Santiago Rodríguez"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Monte Plata"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Baoruco"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "María Trinidad Sánchez"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Espaillat"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Valverde"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "La Romana"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "La Vega"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Hato Mayor"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Dajabón"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Sánchez Ramírez"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Monseñor Nouel"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Santo Domingo"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Peravia"
+  },
+  {
+    "country": "Dominican Republic",
+    "city": "Azua"
+  },
+  {
+    "country": "Algeria",
+    "city": "Boumerdes"
+  },
+  {
+    "country": "Algeria",
+    "city": "Biskra"
+  },
+  {
+    "country": "Algeria",
+    "city": "Tipaza"
+  },
+  {
+    "country": "Algeria",
+    "city": "Relizane"
+  },
+  {
+    "country": "Algeria",
+    "city": "Ouargla"
+  },
+  {
+    "country": "Algeria",
+    "city": "Tlemcen"
+  },
+  {
+    "country": "Algeria",
+    "city": "Tizi Ouzou"
+  },
+  {
+    "country": "Algeria",
+    "city": "Tissemsilt"
+  },
+  {
+    "country": "Algeria",
+    "city": "Tindouf"
+  },
+  {
+    "country": "Algeria",
+    "city": "Adrar"
+  },
+  {
+    "country": "Algeria",
+    "city": "Bejaïa"
+  },
+  {
+    "country": "Algeria",
+    "city": "Tiaret"
+  },
+  {
+    "country": "Algeria",
+    "city": "Aïn Defla"
+  },
+  {
+    "country": "Algeria",
+    "city": "Mila"
+  },
+  {
+    "country": "Algeria",
+    "city": "Tébessa"
+  },
+  {
+    "country": "Algeria",
+    "city": "Batna"
+  },
+  {
+    "country": "Algeria",
+    "city": "Tamanghasset"
+  },
+  {
+    "country": "Algeria",
+    "city": "Skikda"
+  },
+  {
+    "country": "Algeria",
+    "city": "Bouira"
+  },
+  {
+    "country": "Algeria",
+    "city": "Blida"
+  },
+  {
+    "country": "Algeria",
+    "city": "Souk Ahras"
+  },
+  {
+    "country": "Algeria",
+    "city": "Mascara"
+  },
+  {
+    "country": "Algeria",
+    "city": "Oran"
+  },
+  {
+    "country": "Algeria",
+    "city": "Sidi Bel Abbès"
+  },
+  {
+    "country": "Algeria",
+    "city": "Chlef"
+  },
+  {
+    "country": "Algeria",
+    "city": "Mʼsila"
+  },
+  {
+    "country": "Algeria",
+    "city": "Sétif"
+  },
+  {
+    "country": "Algeria",
+    "city": "Saïda"
+  },
+  {
+    "country": "Algeria",
+    "city": "Alger"
+  },
+  {
+    "country": "Algeria",
+    "city": "El Oued"
+  },
+  {
+    "country": "Algeria",
+    "city": "Bordj Bou Arréridj"
+  },
+  {
+    "country": "Algeria",
+    "city": "Oum el Bouaghi"
+  },
+  {
+    "country": "Algeria",
+    "city": "Mostaganem"
+  },
+  {
+    "country": "Algeria",
+    "city": "Ghardaïa"
+  },
+  {
+    "country": "Algeria",
+    "city": "Djelfa"
+  },
+  {
+    "country": "Algeria",
+    "city": "Médéa"
+  },
+  {
+    "country": "Algeria",
+    "city": "Laghouat"
+  },
+  {
+    "country": "Algeria",
+    "city": "Khenchela"
+  },
+  {
+    "country": "Algeria",
+    "city": "Jijel"
+  },
+  {
+    "country": "Algeria",
+    "city": "Guelma"
+  },
+  {
+    "country": "Algeria",
+    "city": "Aïn Temouchent"
+  },
+  {
+    "country": "Algeria",
+    "city": "Constantine"
+  },
+  {
+    "country": "Algeria",
+    "city": "El Tarf"
+  },
+  {
+    "country": "Algeria",
+    "city": "Annaba"
+  },
+  {
+    "country": "Algeria",
+    "city": "El Bayadh"
+  },
+  {
+    "country": "Algeria",
+    "city": "Béchar"
+  },
+  {
+    "country": "Algeria",
+    "city": "Naama النعامة"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Zamora-Chinchipe"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Guayas"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Carchi"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Napo"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Manabí"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Santo Domingo de los Tsáchilas"
+  },
+  {
+    "country": "Ecuador",
+    "city": "El Oro"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Santa Elena"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Esmeraldas"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Chimborazo"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Pichincha"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Pastaza"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Cotopaxi"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Orellana"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Tungurahua"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Imbabura"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Morona-Santiago"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Loja"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Cañar"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Sucumbios"
+  },
+  {
+    "country": "Ecuador",
+    "city": "Azuay"
+  },
+  {
+    "country": "Estonia",
+    "city": "Viljandimaa"
+  },
+  {
+    "country": "Estonia",
+    "city": "Tartu"
+  },
+  {
+    "country": "Estonia",
+    "city": "Harjumaa"
+  },
+  {
+    "country": "Estonia",
+    "city": "Ida-Virumaa"
+  },
+  {
+    "country": "Estonia",
+    "city": "Lääne-Virumaa"
+  },
+  {
+    "country": "Estonia",
+    "city": "Pärnumaa"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at al Gharbīyah"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at al Qalyūbīyah"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at al Fayyūm"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at ad Daqahlīyah"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at al Minūfīyah"
+  },
+  {
+    "country": "Egypt",
+    "city": "Sūhāj"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at Banī Suwayf"
+  },
+  {
+    "country": "Egypt",
+    "city": "Kafr ash Shaykh"
+  },
+  {
+    "country": "Egypt",
+    "city": "Al Minyā"
+  },
+  {
+    "country": "Egypt",
+    "city": "Al Buḩayrah"
+  },
+  {
+    "country": "Egypt",
+    "city": "Red Sea"
+  },
+  {
+    "country": "Egypt",
+    "city": "Qinā"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at Maţrūḩ"
+  },
+  {
+    "country": "Egypt",
+    "city": "Asyūţ"
+  },
+  {
+    "country": "Egypt",
+    "city": "Al Jīzah"
+  },
+  {
+    "country": "Egypt",
+    "city": "Aswān"
+  },
+  {
+    "country": "Egypt",
+    "city": "Cairo Governorate"
+  },
+  {
+    "country": "Egypt",
+    "city": "Dumyāţ"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at Būr Sa‘īd"
+  },
+  {
+    "country": "Egypt",
+    "city": "Al Ismā‘īlīyah"
+  },
+  {
+    "country": "Egypt",
+    "city": "As Suways"
+  },
+  {
+    "country": "Egypt",
+    "city": "Luxor"
+  },
+  {
+    "country": "Egypt",
+    "city": "Muḩāfaz̧at al Wādī al Jadīd"
+  },
+  {
+    "country": "Egypt",
+    "city": "Alexandria"
+  },
+  {
+    "country": "Egypt",
+    "city": "Shamāl Sīnāʼ"
+  },
+  {
+    "country": "Western Sahara",
+    "city": "Oued Ed-Dahab-Lagouira"
+  },
+  {
+    "country": "Eritrea",
+    "city": "Northern Red Sea Region"
+  },
+  {
+    "country": "Eritrea",
+    "city": "Ānseba"
+  },
+  {
+    "country": "Eritrea",
+    "city": "Gash Barka"
+  },
+  {
+    "country": "Eritrea",
+    "city": "Maʼākel"
+  },
+  {
+    "country": "Eritrea",
+    "city": "Debubawī Kʼeyih Bahrī"
+  },
+  {
+    "country": "Eritrea",
+    "city": "Debub"
+  },
+  {
+    "country": "Spain",
+    "city": "Andalusia"
+  },
+  {
+    "country": "Spain",
+    "city": "Extremadura"
+  },
+  {
+    "country": "Spain",
+    "city": "Murcia"
+  },
+  {
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  {
+    "country": "Spain",
+    "city": "Castille-La Mancha"
+  },
+  {
+    "country": "Spain",
+    "city": "Canary Islands"
+  },
+  {
+    "country": "Spain",
+    "city": "Balearic Islands"
+  },
+  {
+    "country": "Spain",
+    "city": "Melilla"
+  },
+  {
+    "country": "Spain",
+    "city": "Basque Country"
+  },
+  {
+    "country": "Spain",
+    "city": "Aragon"
+  },
+  {
+    "country": "Spain",
+    "city": "Castille and León"
+  },
+  {
+    "country": "Spain",
+    "city": "Galicia"
+  },
+  {
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "country": "Spain",
+    "city": "Catalonia"
+  },
+  {
+    "country": "Spain",
+    "city": "Navarre"
+  },
+  {
+    "country": "Spain",
+    "city": "Cantabria"
+  },
+  {
+    "country": "Spain",
+    "city": "Asturias"
+  },
+  {
+    "country": "Spain",
+    "city": "Ceuta"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Oromiya"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Southern Nations, Nationalities, and People's Region"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Amhara"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Tigray"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Somali"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Harari"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Gambela"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Āfar"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Dire Dawa"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Bīnshangul Gumuz"
+  },
+  {
+    "country": "Ethiopia",
+    "city": "Ādīs Ābeba"
+  },
+  {
+    "country": "Finland",
+    "city": "Pirkanmaa"
+  },
+  {
+    "country": "Finland",
+    "city": "Uusimaa"
+  },
+  {
+    "country": "Finland",
+    "city": "Northern Savo"
+  },
+  {
+    "country": "Finland",
+    "city": "Ostrobothnia"
+  },
+  {
+    "country": "Finland",
+    "city": "Southwest Finland"
+  },
+  {
+    "country": "Finland",
+    "city": "Lapland"
+  },
+  {
+    "country": "Finland",
+    "city": "Southern Ostrobothnia"
+  },
+  {
+    "country": "Finland",
+    "city": "Southern Savonia"
+  },
+  {
+    "country": "Finland",
+    "city": "Häme"
+  },
+  {
+    "country": "Finland",
+    "city": "Satakunta"
+  },
+  {
+    "country": "Finland",
+    "city": "Northern Ostrobothnia"
+  },
+  {
+    "country": "Finland",
+    "city": "Central Finland"
+  },
+  {
+    "country": "Finland",
+    "city": "South Karelia"
+  },
+  {
+    "country": "Finland",
+    "city": "Päijänne Tavastia"
+  },
+  {
+    "country": "Finland",
+    "city": "Kymenlaakso"
+  },
+  {
+    "country": "Finland",
+    "city": "Central Ostrobothnia"
+  },
+  {
+    "country": "Finland",
+    "city": "Kainuu"
+  },
+  {
+    "country": "Finland",
+    "city": "North Karelia"
+  },
+  {
+    "country": "Fiji",
+    "city": "Western"
+  },
+  {
+    "country": "Fiji",
+    "city": "Northern"
+  },
+  {
+    "country": "Micronesia",
+    "city": "Pohnpei"
+  },
+  {
+    "country": "Faroe Islands",
+    "city": "Streymoy"
+  },
+  {
+    "country": "France",
+    "city": "Île-de-France"
+  },
+  {
+    "country": "France",
+    "city": "Alsace-Champagne-Ardenne-Lorraine"
+  },
+  {
+    "country": "France",
+    "city": "Nord-Pas-de-Calais-Picardie"
+  },
+  {
+    "country": "France",
+    "city": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "country": "France",
+    "city": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "country": "France",
+    "city": "Brittany"
+  },
+  {
+    "country": "France",
+    "city": "Aquitaine-Limousin-Poitou-Charentes"
+  },
+  {
+    "country": "France",
+    "city": "Bourgogne-Franche-Comté"
+  },
+  {
+    "country": "France",
+    "city": "Pays de la Loire"
+  },
+  {
+    "country": "France",
+    "city": "Normandy"
+  },
+  {
+    "country": "France",
+    "city": "Languedoc-Roussillon-Midi-Pyrénées"
+  },
+  {
+    "country": "France",
+    "city": "Corsica"
+  },
+  {
+    "country": "Gabon",
+    "city": "Nyanga"
+  },
+  {
+    "country": "Gabon",
+    "city": "Ogooué-Maritime"
+  },
+  {
+    "country": "Gabon",
+    "city": "Woleu-Ntem"
+  },
+  {
+    "country": "Gabon",
+    "city": "Ngounié"
+  },
+  {
+    "country": "Gabon",
+    "city": "Haut-Ogooué"
+  },
+  {
+    "country": "Gabon",
+    "city": "Estuaire"
+  },
+  {
+    "country": "Gabon",
+    "city": "Moyen-Ogooué"
+  },
+  {
+    "country": "Gabon",
+    "city": "Ogooué-Lolo"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "England"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Wales"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Scotland"
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Northern Ireland"
+  },
+  {
+    "country": "Georgia",
+    "city": "Samegrelo and Zemo Svaneti"
+  },
+  {
+    "country": "Georgia",
+    "city": "Imereti"
+  },
+  {
+    "country": "Georgia",
+    "city": "Shida Kartli"
+  },
+  {
+    "country": "Georgia",
+    "city": "Abkhazia"
+  },
+  {
+    "country": "Georgia",
+    "city": "Kakheti"
+  },
+  {
+    "country": "Georgia",
+    "city": "T'bilisi"
+  },
+  {
+    "country": "Georgia",
+    "city": "Kvemo Kartli"
+  },
+  {
+    "country": "Georgia",
+    "city": "Guria"
+  },
+  {
+    "country": "Georgia",
+    "city": "Ajaria"
+  },
+  {
+    "country": "Georgia",
+    "city": "Samtskhe-Javakheti"
+  },
+  {
+    "country": "French Guiana",
+    "city": "Guyane"
+  },
+  {
+    "country": "Guernsey",
+    "city": "St Peter Port"
+  },
+  {
+    "country": "Ghana",
+    "city": "Brong-Ahafo"
+  },
+  {
+    "country": "Ghana",
+    "city": "Upper West"
+  },
+  {
+    "country": "Ghana",
+    "city": "Greater Accra"
+  },
+  {
+    "country": "Ghana",
+    "city": "Ashanti"
+  },
+  {
+    "country": "Ghana",
+    "city": "Eastern"
+  },
+  {
+    "country": "Ghana",
+    "city": "Upper East"
+  },
+  {
+    "country": "Ghana",
+    "city": "Volta"
+  },
+  {
+    "country": "Greenland",
+    "city": "Sermersooq"
+  },
+  {
+    "country": "Gambia",
+    "city": "North Bank"
+  },
+  {
+    "country": "Gambia",
+    "city": "Banjul"
+  },
+  {
+    "country": "Guinea",
+    "city": "Labe"
+  },
+  {
+    "country": "Guinea",
+    "city": "Kindia"
+  },
+  {
+    "country": "Guinea",
+    "city": "Kankan"
+  },
+  {
+    "country": "Guinea",
+    "city": "Mamou"
+  },
+  {
+    "country": "Guinea",
+    "city": "Nzerekore"
+  },
+  {
+    "country": "Guinea",
+    "city": "Faranah"
+  },
+  {
+    "country": "Guinea",
+    "city": "Boke"
+  },
+  {
+    "country": "Guinea",
+    "city": "Conakry"
+  },
+  {
+    "country": "Guadeloupe",
+    "city": "Guadeloupe"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "city": "Kié-Ntem"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "city": "Bioko Norte"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "city": "Litoral"
+  },
+  {
+    "country": "Greece",
+    "city": "Attica"
+  },
+  {
+    "country": "Greece",
+    "city": "Thessaly"
+  },
+  {
+    "country": "Greece",
+    "city": "Peloponnese"
+  },
+  {
+    "country": "Greece",
+    "city": "Central Greece"
+  },
+  {
+    "country": "Greece",
+    "city": "Crete"
+  },
+  {
+    "country": "Greece",
+    "city": "Epirus"
+  },
+  {
+    "country": "Greece",
+    "city": "West Greece"
+  },
+  {
+    "country": "Greece",
+    "city": "North Aegean"
+  },
+  {
+    "country": "Greece",
+    "city": "South Aegean"
+  },
+  {
+    "country": "Greece",
+    "city": "Central Macedonia"
+  },
+  {
+    "country": "Greece",
+    "city": "East Macedonia and Thrace"
+  },
+  {
+    "country": "Greece",
+    "city": "West Macedonia"
+  },
+  {
+    "country": "Greece",
+    "city": "Ionian Islands"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Zacapa"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Guatemala"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Totonicapán"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Chimaltenango"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Sacatepéquez"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Sololá"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Escuintla"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Quiché"
+  },
+  {
+    "country": "Guatemala",
+    "city": "San Marcos"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Suchitepeque"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Alta Verapaz"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Petén"
+  },
+  {
+    "country": "Guatemala",
+    "city": "El Progreso"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Baja Verapaz"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Retalhuleu"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Quetzaltenango"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Izabal"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Jutiapa"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Jalapa"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Huehuetenango"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Chiquimula"
+  },
+  {
+    "country": "Guatemala",
+    "city": "Santa Rosa"
+  },
+  {
+    "country": "Guam",
+    "city": "Tamuning"
+  },
+  {
+    "country": "Guam",
+    "city": "Yigo"
+  },
+  {
+    "country": "Guam",
+    "city": "Hagatna"
+  },
+  {
+    "country": "Guam",
+    "city": "Dededo"
+  },
+  {
+    "country": "Guam",
+    "city": "Mangilao"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "city": "Bissau"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "city": "Bafatá"
+  },
+  {
+    "country": "Guyana",
+    "city": "East Berbice-Corentyne"
+  },
+  {
+    "country": "Guyana",
+    "city": "Upper Demerara-Berbice"
+  },
+  {
+    "country": "Guyana",
+    "city": "Demerara-Mahaica"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Tsuen Wan"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Yuen Long"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Tuen Mun"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Tai Po"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Sha Tin"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Kowloon City"
+  },
+  {
+    "country": "Hong Kong",
+    "city": "Central and Western"
+  },
+  {
+    "country": "Honduras",
+    "city": "Cortés"
+  },
+  {
+    "country": "Honduras",
+    "city": "Yoro"
+  },
+  {
+    "country": "Honduras",
+    "city": "Colón"
+  },
+  {
+    "country": "Honduras",
+    "city": "Atlántida"
+  },
+  {
+    "country": "Honduras",
+    "city": "Francisco Morazán"
+  },
+  {
+    "country": "Honduras",
+    "city": "Comayagua"
+  },
+  {
+    "country": "Honduras",
+    "city": "Copán"
+  },
+  {
+    "country": "Honduras",
+    "city": "Santa Bárbara"
+  },
+  {
+    "country": "Honduras",
+    "city": "Valle"
+  },
+  {
+    "country": "Honduras",
+    "city": "Olancho"
+  },
+  {
+    "country": "Honduras",
+    "city": "El Paraíso"
+  },
+  {
+    "country": "Honduras",
+    "city": "Choluteca"
+  },
+  {
+    "country": "Croatia",
+    "city": "Zagrebačka"
+  },
+  {
+    "country": "Croatia",
+    "city": "Grad Zagreb"
+  },
+  {
+    "country": "Croatia",
+    "city": "Zadarska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Vukovarsko-Srijemska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Virovitičk-Podravska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Varaždinska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Splitsko-Dalmatinska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Brodsko-Posavska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Požeško-Slavonska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Sisačko-Moslavačka"
+  },
+  {
+    "country": "Croatia",
+    "city": "Šibensko-Kniniska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Primorsko-Goranska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Istarska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Osječko-Baranjska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Koprivničko-Križevačka"
+  },
+  {
+    "country": "Croatia",
+    "city": "Karlovačka"
+  },
+  {
+    "country": "Croatia",
+    "city": "Dubrovačko-Neretvanska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Međimurska"
+  },
+  {
+    "country": "Croatia",
+    "city": "Bjelovarsko-Bilogorska"
+  },
+  {
+    "country": "Haiti",
+    "city": "Artibonite"
+  },
+  {
+    "country": "Haiti",
+    "city": "Ouest"
+  },
+  {
+    "country": "Haiti",
+    "city": "Nord-Ouest"
+  },
+  {
+    "country": "Haiti",
+    "city": "Nippes"
+  },
+  {
+    "country": "Haiti",
+    "city": "GrandʼAnse"
+  },
+  {
+    "country": "Haiti",
+    "city": "Sud-Est"
+  },
+  {
+    "country": "Haiti",
+    "city": "Sud"
+  },
+  {
+    "country": "Hungary",
+    "city": "Jász-Nagykun-Szolnok"
+  },
+  {
+    "country": "Hungary",
+    "city": "Borsod-Abaúj-Zemplén"
+  },
+  {
+    "country": "Hungary",
+    "city": "Csongrád"
+  },
+  {
+    "country": "Hungary",
+    "city": "Bekes"
+  },
+  {
+    "country": "Hungary",
+    "city": "Hajdú-Bihar"
+  },
+  {
+    "country": "Hungary",
+    "city": "Szabolcs-Szatmár-Bereg"
+  },
+  {
+    "country": "Hungary",
+    "city": "Heves"
+  },
+  {
+    "country": "Hungary",
+    "city": "Pest"
+  },
+  {
+    "country": "Hungary",
+    "city": "Zala"
+  },
+  {
+    "country": "Hungary",
+    "city": "Veszprém"
+  },
+  {
+    "country": "Hungary",
+    "city": "Komárom-Esztergom"
+  },
+  {
+    "country": "Hungary",
+    "city": "Vas"
+  },
+  {
+    "country": "Hungary",
+    "city": "Tolna"
+  },
+  {
+    "country": "Hungary",
+    "city": "Fejér"
+  },
+  {
+    "country": "Hungary",
+    "city": "Győr-Moson-Sopron"
+  },
+  {
+    "country": "Hungary",
+    "city": "Somogy"
+  },
+  {
+    "country": "Hungary",
+    "city": "Nógrád"
+  },
+  {
+    "country": "Hungary",
+    "city": "Baranya"
+  },
+  {
+    "country": "Hungary",
+    "city": "Bács-Kiskun"
+  },
+  {
+    "country": "Hungary",
+    "city": "Budapest"
+  },
+  {
+    "country": "Indonesia",
+    "city": "North Sumatra"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Aceh"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Central Java"
+  },
+  {
+    "country": "Indonesia",
+    "city": "East Java"
+  },
+  {
+    "country": "Indonesia",
+    "city": "West Java"
+  },
+  {
+    "country": "Indonesia",
+    "city": "South Sulawesi"
+  },
+  {
+    "country": "Indonesia",
+    "city": "East Nusa Tenggara"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Bali"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Maluku"
+  },
+  {
+    "country": "Indonesia",
+    "city": "North Sulawesi"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Maluku Utara"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Lampung"
+  },
+  {
+    "country": "Indonesia",
+    "city": "North Kalimantan"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Riau Islands"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Bangka–Belitung Islands"
+  },
+  {
+    "country": "Indonesia",
+    "city": "South Sumatra"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Banten"
+  },
+  {
+    "country": "Indonesia",
+    "city": "West Kalimantan"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jambi"
+  },
+  {
+    "country": "Indonesia",
+    "city": "West Nusa Tenggara"
+  },
+  {
+    "country": "Indonesia",
+    "city": "West Papua"
+  },
+  {
+    "country": "Indonesia",
+    "city": "West Sumatra"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Central Kalimantan"
+  },
+  {
+    "country": "Indonesia",
+    "city": "East Kalimantan"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Central Sulawesi"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Sulawesi Barat"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Riau"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Papua"
+  },
+  {
+    "country": "Indonesia",
+    "city": "South Kalimantan"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Sulawesi Tenggara"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Jakarta Raya"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Gorontalo"
+  },
+  {
+    "country": "Indonesia",
+    "city": "Bengkulu"
+  },
+  {
+    "country": "Ireland",
+    "city": "Leinster"
+  },
+  {
+    "country": "Ireland",
+    "city": "Munster"
+  },
+  {
+    "country": "Ireland",
+    "city": "Connaught"
+  },
+  {
+    "country": "Ireland",
+    "city": "Ulster"
+  },
+  {
+    "country": "Israel",
+    "city": "Jerusalem"
+  },
+  {
+    "country": "Israel",
+    "city": "Northern District"
+  },
+  {
+    "country": "Israel",
+    "city": "Central District"
+  },
+  {
+    "country": "Israel",
+    "city": "Tel Aviv"
+  },
+  {
+    "country": "Israel",
+    "city": "Haifa"
+  },
+  {
+    "country": "Israel",
+    "city": "Southern District"
+  },
+  {
+    "country": "Isle of Man",
+    "city": "Douglas"
+  },
+  {
+    "country": "India",
+    "city": "Kashmir"
+  },
+  {
+    "country": "India",
+    "city": "Tamil Nadu"
+  },
+  {
+    "country": "India",
+    "city": "Nagaland"
+  },
+  {
+    "country": "India",
+    "city": "Uttar Pradesh"
+  },
+  {
+    "country": "India",
+    "city": "Telangana"
+  },
+  {
+    "country": "India",
+    "city": "Maharashtra"
+  },
+  {
+    "country": "India",
+    "city": "Karnataka"
+  },
+  {
+    "country": "India",
+    "city": "Andhra Pradesh"
+  },
+  {
+    "country": "India",
+    "city": "Haryana"
+  },
+  {
+    "country": "India",
+    "city": "Rajasthan"
+  },
+  {
+    "country": "India",
+    "city": "Bihar"
+  },
+  {
+    "country": "India",
+    "city": "Madhya Pradesh"
+  },
+  {
+    "country": "India",
+    "city": "Gujarat"
+  },
+  {
+    "country": "India",
+    "city": "Kerala"
+  },
+  {
+    "country": "India",
+    "city": "Goa"
+  },
+  {
+    "country": "India",
+    "city": "Uttarakhand"
+  },
+  {
+    "country": "India",
+    "city": "Himachal Pradesh"
+  },
+  {
+    "country": "India",
+    "city": "Chhattisgarh"
+  },
+  {
+    "country": "India",
+    "city": "Assam"
+  },
+  {
+    "country": "India",
+    "city": "Tripura"
+  },
+  {
+    "country": "India",
+    "city": "Meghalaya"
+  },
+  {
+    "country": "India",
+    "city": "West Bengal"
+  },
+  {
+    "country": "India",
+    "city": "Odisha"
+  },
+  {
+    "country": "India",
+    "city": "Manipur"
+  },
+  {
+    "country": "India",
+    "city": "Punjab"
+  },
+  {
+    "country": "India",
+    "city": "Jharkhand"
+  },
+  {
+    "country": "India",
+    "city": "Dadra and Nagar Haveli"
+  },
+  {
+    "country": "India",
+    "city": "Mizoram"
+  },
+  {
+    "country": "India",
+    "city": "Andaman and Nicobar Islands"
+  },
+  {
+    "country": "India",
+    "city": "Pondicherry"
+  },
+  {
+    "country": "India",
+    "city": "Arunachal Pradesh"
+  },
+  {
+    "country": "India",
+    "city": "NCT"
+  },
+  {
+    "country": "India",
+    "city": "Sikkim"
+  },
+  {
+    "country": "India",
+    "city": "Daman and Diu"
+  },
+  {
+    "country": "India",
+    "city": "Chandigarh"
+  },
+  {
+    "country": "Iraq",
+    "city": "Dahūk"
+  },
+  {
+    "country": "Iraq",
+    "city": "Basra Governorate"
+  },
+  {
+    "country": "Iraq",
+    "city": "Salah ad Din Governorate"
+  },
+  {
+    "country": "Iraq",
+    "city": "Nīnawá"
+  },
+  {
+    "country": "Iraq",
+    "city": "Bābil"
+  },
+  {
+    "country": "Iraq",
+    "city": "Arbīl"
+  },
+  {
+    "country": "Iraq",
+    "city": "Anbar"
+  },
+  {
+    "country": "Iraq",
+    "city": "Diyālá"
+  },
+  {
+    "country": "Iraq",
+    "city": "At Taʼmīm"
+  },
+  {
+    "country": "Iraq",
+    "city": "Karbalāʼ"
+  },
+  {
+    "country": "Iraq",
+    "city": "As Sulaymānīyah"
+  },
+  {
+    "country": "Iraq",
+    "city": "Mayorality of Baghdad"
+  },
+  {
+    "country": "Iraq",
+    "city": "Wāsiţ"
+  },
+  {
+    "country": "Iraq",
+    "city": "Al Muthanná"
+  },
+  {
+    "country": "Iraq",
+    "city": "Al Qādisīyah"
+  },
+  {
+    "country": "Iraq",
+    "city": "Dhi Qar"
+  },
+  {
+    "country": "Iraq",
+    "city": "An Najaf"
+  },
+  {
+    "country": "Iraq",
+    "city": "Maysan"
+  },
+  {
+    "country": "Iran",
+    "city": "Hamadān"
+  },
+  {
+    "country": "Iran",
+    "city": "Kermānshāh"
+  },
+  {
+    "country": "Iran",
+    "city": "Lorestān"
+  },
+  {
+    "country": "Iran",
+    "city": "Semnān"
+  },
+  {
+    "country": "Iran",
+    "city": "Tehrān"
+  },
+  {
+    "country": "Iran",
+    "city": "Zanjan"
+  },
+  {
+    "country": "Iran",
+    "city": "Kohgīlūyeh va Būyer Aḩmad"
+  },
+  {
+    "country": "Iran",
+    "city": "Golestān"
+  },
+  {
+    "country": "Iran",
+    "city": "Kerman"
+  },
+  {
+    "country": "Iran",
+    "city": "Yazd"
+  },
+  {
+    "country": "Iran",
+    "city": "Razavi Khorasan"
+  },
+  {
+    "country": "Iran",
+    "city": "Māzandarān"
+  },
+  {
+    "country": "Iran",
+    "city": "Gīlān"
+  },
+  {
+    "country": "Iran",
+    "city": "Qazvīn"
+  },
+  {
+    "country": "Iran",
+    "city": "Āz̄ārbāyjān-e Gharbī"
+  },
+  {
+    "country": "Iran",
+    "city": "East Azerbaijan"
+  },
+  {
+    "country": "Iran",
+    "city": "Khuzestan"
+  },
+  {
+    "country": "Iran",
+    "city": "Khorāsān-e Shomālī"
+  },
+  {
+    "country": "Iran",
+    "city": "Fars"
+  },
+  {
+    "country": "Iran",
+    "city": "Chahār Maḩāll va Bakhtīārī"
+  },
+  {
+    "country": "Iran",
+    "city": "Isfahan"
+  },
+  {
+    "country": "Iran",
+    "city": "Markazi"
+  },
+  {
+    "country": "Iran",
+    "city": "Kordestān"
+  },
+  {
+    "country": "Iran",
+    "city": "Qom"
+  },
+  {
+    "country": "Iran",
+    "city": "Hormozgan"
+  },
+  {
+    "country": "Iran",
+    "city": "Khorāsān-e Jonūbī"
+  },
+  {
+    "country": "Iran",
+    "city": "Ardabīl"
+  },
+  {
+    "country": "Iran",
+    "city": "Alborz"
+  },
+  {
+    "country": "Iran",
+    "city": "Īlām"
+  },
+  {
+    "country": "Iran",
+    "city": "Bushehr"
+  },
+  {
+    "country": "Iran",
+    "city": "Sistan and Baluchestan"
+  },
+  {
+    "country": "Iceland",
+    "city": "Northeast"
+  },
+  {
+    "country": "Italy",
+    "city": "Sicily"
+  },
+  {
+    "country": "Italy",
+    "city": "Calabria"
+  },
+  {
+    "country": "Italy",
+    "city": "Sardinia"
+  },
+  {
+    "country": "Italy",
+    "city": "Apulia"
+  },
+  {
+    "country": "Italy",
+    "city": "Emilia-Romagna"
+  },
+  {
+    "country": "Italy",
+    "city": "Lombardy"
+  },
+  {
+    "country": "Italy",
+    "city": "Veneto"
+  },
+  {
+    "country": "Italy",
+    "city": "Latium"
+  },
+  {
+    "country": "Italy",
+    "city": "Campania"
+  },
+  {
+    "country": "Italy",
+    "city": "Tuscany"
+  },
+  {
+    "country": "Italy",
+    "city": "Piedmont"
+  },
+  {
+    "country": "Italy",
+    "city": "Liguria"
+  },
+  {
+    "country": "Italy",
+    "city": "Abruzzo"
+  },
+  {
+    "country": "Italy",
+    "city": "Friuli Venezia Giulia"
+  },
+  {
+    "country": "Italy",
+    "city": "Trentino-Alto Adige"
+  },
+  {
+    "country": "Italy",
+    "city": "The Marches"
+  },
+  {
+    "country": "Italy",
+    "city": "Umbria"
+  },
+  {
+    "country": "Italy",
+    "city": "Molise"
+  },
+  {
+    "country": "Italy",
+    "city": "Basilicate"
+  },
+  {
+    "country": "Italy",
+    "city": "Aosta Valley"
+  },
+  {
+    "country": "Jersey",
+    "city": "St Helier"
+  },
+  {
+    "country": "Jamaica",
+    "city": "Saint Catherine"
+  },
+  {
+    "country": "Jamaica",
+    "city": "Westmoreland"
+  },
+  {
+    "country": "Jamaica",
+    "city": "Saint Andrew"
+  },
+  {
+    "country": "Jamaica",
+    "city": "Saint James"
+  },
+  {
+    "country": "Jamaica",
+    "city": "Clarendon"
+  },
+  {
+    "country": "Jamaica",
+    "city": "Manchester"
+  },
+  {
+    "country": "Jamaica",
+    "city": "Kingston"
+  },
+  {
+    "country": "Jordan",
+    "city": "Amman"
+  },
+  {
+    "country": "Jordan",
+    "city": "Madaba"
+  },
+  {
+    "country": "Jordan",
+    "city": "Ma’an"
+  },
+  {
+    "country": "Jordan",
+    "city": "Irbid"
+  },
+  {
+    "country": "Jordan",
+    "city": "Jerash"
+  },
+  {
+    "country": "Jordan",
+    "city": "Karak"
+  },
+  {
+    "country": "Jordan",
+    "city": "Zarqa"
+  },
+  {
+    "country": "Jordan",
+    "city": "Tafielah"
+  },
+  {
+    "country": "Jordan",
+    "city": "Balqa"
+  },
+  {
+    "country": "Jordan",
+    "city": "Ajlun"
+  },
+  {
+    "country": "Jordan",
+    "city": "Mafraq"
+  },
+  {
+    "country": "Jordan",
+    "city": "Aqaba"
+  },
+  {
+    "country": "Japan",
+    "city": "Wakayama"
+  },
+  {
+    "country": "Japan",
+    "city": "Kanagawa"
+  },
+  {
+    "country": "Japan",
+    "city": "Hyōgo"
+  },
+  {
+    "country": "Japan",
+    "city": "Yamagata"
+  },
+  {
+    "country": "Japan",
+    "city": "Gifu"
+  },
+  {
+    "country": "Japan",
+    "city": "Fukuoka"
+  },
+  {
+    "country": "Japan",
+    "city": "Ibaraki"
+  },
+  {
+    "country": "Japan",
+    "city": "Saitama"
+  },
+  {
+    "country": "Japan",
+    "city": "Gunma"
+  },
+  {
+    "country": "Japan",
+    "city": "Niigata"
+  },
+  {
+    "country": "Japan",
+    "city": "Tottori"
+  },
+  {
+    "country": "Japan",
+    "city": "Mie"
+  },
+  {
+    "country": "Japan",
+    "city": "Shiga Prefecture"
+  },
+  {
+    "country": "Japan",
+    "city": "Kyoto"
+  },
+  {
+    "country": "Japan",
+    "city": "Kumamoto"
+  },
+  {
+    "country": "Japan",
+    "city": "Toyama"
+  },
+  {
+    "country": "Japan",
+    "city": "Shimane"
+  },
+  {
+    "country": "Japan",
+    "city": "Ōsaka"
+  },
+  {
+    "country": "Japan",
+    "city": "Yamaguchi"
+  },
+  {
+    "country": "Japan",
+    "city": "Shizuoka"
+  },
+  {
+    "country": "Japan",
+    "city": "Tochigi"
+  },
+  {
+    "country": "Japan",
+    "city": "Tokushima"
+  },
+  {
+    "country": "Japan",
+    "city": "Oita"
+  },
+  {
+    "country": "Japan",
+    "city": "Saga Prefecture"
+  },
+  {
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "country": "Japan",
+    "city": "Yamanashi"
+  },
+  {
+    "country": "Japan",
+    "city": "Nagano"
+  },
+  {
+    "country": "Japan",
+    "city": "Okayama"
+  },
+  {
+    "country": "Japan",
+    "city": "Aichi"
+  },
+  {
+    "country": "Japan",
+    "city": "Ishikawa"
+  },
+  {
+    "country": "Japan",
+    "city": "Fukui"
+  },
+  {
+    "country": "Japan",
+    "city": "Miyazaki"
+  },
+  {
+    "country": "Japan",
+    "city": "Kagawa"
+  },
+  {
+    "country": "Japan",
+    "city": "Okinawa"
+  },
+  {
+    "country": "Japan",
+    "city": "Nagasaki"
+  },
+  {
+    "country": "Japan",
+    "city": "Nara"
+  },
+  {
+    "country": "Japan",
+    "city": "Akita"
+  },
+  {
+    "country": "Japan",
+    "city": "Chiba"
+  },
+  {
+    "country": "Japan",
+    "city": "Kagoshima"
+  },
+  {
+    "country": "Japan",
+    "city": "Hiroshima"
+  },
+  {
+    "country": "Japan",
+    "city": "Kochi"
+  },
+  {
+    "country": "Japan",
+    "city": "Ehime"
+  },
+  {
+    "country": "Japan",
+    "city": "Fukushima"
+  },
+  {
+    "country": "Japan",
+    "city": "Miyagi"
+  },
+  {
+    "country": "Japan",
+    "city": "Iwate"
+  },
+  {
+    "country": "Japan",
+    "city": "Hokkaido"
+  },
+  {
+    "country": "Japan",
+    "city": "Aomori"
+  },
+  {
+    "country": "Kenya",
+    "city": "Bungoma"
+  },
+  {
+    "country": "Kenya",
+    "city": "Wajir"
+  },
+  {
+    "country": "Kenya",
+    "city": "Taita Taveta"
+  },
+  {
+    "country": "Kenya",
+    "city": "Nairobi Area"
+  },
+  {
+    "country": "Kenya",
+    "city": "Nakuru"
+  },
+  {
+    "country": "Kenya",
+    "city": "Nyeri"
+  },
+  {
+    "country": "Kenya",
+    "city": "Laikipia"
+  },
+  {
+    "country": "Kenya",
+    "city": "Narok"
+  },
+  {
+    "country": "Kenya",
+    "city": "Kakamega"
+  },
+  {
+    "country": "Kenya",
+    "city": "Kisumu"
+  },
+  {
+    "country": "Kenya",
+    "city": "Marsabit"
+  },
+  {
+    "country": "Kenya",
+    "city": "Mombasa"
+  },
+  {
+    "country": "Kenya",
+    "city": "Migori"
+  },
+  {
+    "country": "Kenya",
+    "city": "Meru"
+  },
+  {
+    "country": "Kenya",
+    "city": "Vihiga"
+  },
+  {
+    "country": "Kenya",
+    "city": "Samburu"
+  },
+  {
+    "country": "Kenya",
+    "city": "Mandera"
+  },
+  {
+    "country": "Kenya",
+    "city": "Kilifi"
+  },
+  {
+    "country": "Kenya",
+    "city": "Makueni"
+  },
+  {
+    "country": "Kenya",
+    "city": "Machakos"
+  },
+  {
+    "country": "Kenya",
+    "city": "Busia"
+  },
+  {
+    "country": "Kenya",
+    "city": "Turkana"
+  },
+  {
+    "country": "Kenya",
+    "city": "Lamu"
+  },
+  {
+    "country": "Kenya",
+    "city": "Kitui"
+  },
+  {
+    "country": "Kenya",
+    "city": "Trans Nzoia"
+  },
+  {
+    "country": "Kenya",
+    "city": "Kisii"
+  },
+  {
+    "country": "Kenya",
+    "city": "Kiambu"
+  },
+  {
+    "country": "Kenya",
+    "city": "Kirinyaga"
+  },
+  {
+    "country": "Kenya",
+    "city": "Kericho"
+  },
+  {
+    "country": "Kenya",
+    "city": "Murang'A"
+  },
+  {
+    "country": "Kenya",
+    "city": "West Pokot"
+  },
+  {
+    "country": "Kenya",
+    "city": "Baringo"
+  },
+  {
+    "country": "Kenya",
+    "city": "Isiolo"
+  },
+  {
+    "country": "Kenya",
+    "city": "Homa Bay"
+  },
+  {
+    "country": "Kenya",
+    "city": "Garissa"
+  },
+  {
+    "country": "Kenya",
+    "city": "Embu"
+  },
+  {
+    "country": "Kenya",
+    "city": "Uasin Gishu"
+  },
+  {
+    "country": "Kenya",
+    "city": "Siaya"
+  },
+  {
+    "country": "Kenya",
+    "city": "Nyandarua"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Batken"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Ysyk-Köl"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Chüy"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Jalal-Abad"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Talas"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Osh"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Naryn"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Bishkek"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "city": "Osh City"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Phnom Penh"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Kandal"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Takeo"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Svay Rieng"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Stung Treng"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Banteay Meanchey"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Siem Reap"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Prey Veng"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Pursat"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Ŏtâr Méanchey"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Preah Vihear"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Pailin"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Ratanakiri"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Koh Kong"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Kratie"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Kampot"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Kampong Thom"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Kampong Speu"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Preah Sihanouk"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Kampong Chhnang"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Kampong Cham"
+  },
+  {
+    "country": "Cambodia",
+    "city": "Battambang"
+  },
+  {
+    "country": "Kiribati",
+    "city": "Gilbert Islands"
+  },
+  {
+    "country": "Comoros",
+    "city": "Anjouan"
+  },
+  {
+    "country": "Comoros",
+    "city": "Grande Comore"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "city": "Saint George Basseterre"
+  },
+  {
+    "country": "North Korea",
+    "city": ""
+  },
+  {
+    "country": "South Korea",
+    "city": "Gyeongsangbuk-do"
+  },
+  {
+    "country": "South Korea",
+    "city": "Gangwon-do"
+  },
+  {
+    "country": "South Korea",
+    "city": "Jeollanam-do"
+  },
+  {
+    "country": "South Korea",
+    "city": "Chungcheongbuk-do"
+  },
+  {
+    "country": "South Korea",
+    "city": "Gyeonggi-do"
+  },
+  {
+    "country": "South Korea",
+    "city": "Chungcheongnam-do"
+  },
+  {
+    "country": "South Korea",
+    "city": "Gyeongsangnam-do"
+  },
+  {
+    "country": "South Korea",
+    "city": "Jeollabuk-do"
+  },
+  {
+    "country": "South Korea",
+    "city": "Ulsan"
+  },
+  {
+    "country": "South Korea",
+    "city": "Daejeon"
+  },
+  {
+    "country": "South Korea",
+    "city": "Daegu"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  {
+    "country": "South Korea",
+    "city": "Busan"
+  },
+  {
+    "country": "South Korea",
+    "city": "Gwangju"
+  },
+  {
+    "country": "South Korea",
+    "city": "Incheon"
+  },
+  {
+    "country": "South Korea",
+    "city": "Jeju-do"
+  },
+  {
+    "country": "Kuwait",
+    "city": "Al Farwaniyah"
+  },
+  {
+    "country": "Kuwait",
+    "city": "Muḩāfaz̧at Ḩawallī"
+  },
+  {
+    "country": "Kuwait",
+    "city": "Al Aḩmadī"
+  },
+  {
+    "country": "Kuwait",
+    "city": "Al Asimah"
+  },
+  {
+    "country": "Kuwait",
+    "city": "Al Jahrāʼ"
+  },
+  {
+    "country": "Kuwait",
+    "city": "Mubārak al Kabīr"
+  },
+  {
+    "country": "Cayman Islands",
+    "city": "George Town"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Mangghystaū"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Aqtöbe"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Atyraū"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Batys Qazaqstan"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Qaraghandy"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "East Kazakhstan"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Qyzylorda"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Qostanay"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Zhambyl"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Ongtüstik Qazaqstan"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Almaty Oblysy"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Soltüstik Qazaqstan"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Pavlodar"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Aqmola"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Bayqongyr Qalasy"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Astana Qalasy"
+  },
+  {
+    "country": "Kazakhstan",
+    "city": "Almaty Qalasy"
+  },
+  {
+    "country": "Laos",
+    "city": "Vientiane"
+  },
+  {
+    "country": "Laos",
+    "city": "Houaphan"
+  },
+  {
+    "country": "Laos",
+    "city": "Savannahkhét"
+  },
+  {
+    "country": "Laos",
+    "city": "Champasak"
+  },
+  {
+    "country": "Laos",
+    "city": "Oudômxai"
+  },
+  {
+    "country": "Laos",
+    "city": "Vientiane Province"
+  },
+  {
+    "country": "Laos",
+    "city": "Xiangkhoang"
+  },
+  {
+    "country": "Laos",
+    "city": "Bolikhamsai Province"
+  },
+  {
+    "country": "Laos",
+    "city": "Khammouan"
+  },
+  {
+    "country": "Laos",
+    "city": "Louangphabang"
+  },
+  {
+    "country": "Laos",
+    "city": "Bokeo Province"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Béqaa"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Liban-Nord"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Liban-Sud"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Beyrouth"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Mont-Liban"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Nabatîyé"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Baalbek-Hermel"
+  },
+  {
+    "country": "Saint Lucia",
+    "city": "Castries Quarter"
+  },
+  {
+    "country": "Liechtenstein",
+    "city": "Vaduz"
+  },
+  {
+    "country": "Sri Lanka",
+    "city": "Northern Province"
+  },
+  {
+    "country": "Sri Lanka",
+    "city": "Sabaragamuwa"
+  },
+  {
+    "country": "Sri Lanka",
+    "city": "North Western"
+  },
+  {
+    "country": "Sri Lanka",
+    "city": "Uva"
+  },
+  {
+    "country": "Sri Lanka",
+    "city": "North Central"
+  },
+  {
+    "country": "Liberia",
+    "city": "Grand Gedeh"
+  },
+  {
+    "country": "Liberia",
+    "city": "Nimba"
+  },
+  {
+    "country": "Liberia",
+    "city": "Lofa"
+  },
+  {
+    "country": "Liberia",
+    "city": "Montserrado"
+  },
+  {
+    "country": "Liberia",
+    "city": "Margibi"
+  },
+  {
+    "country": "Liberia",
+    "city": "Maryland"
+  },
+  {
+    "country": "Liberia",
+    "city": "Sinoe"
+  },
+  {
+    "country": "Liberia",
+    "city": "Bong"
+  },
+  {
+    "country": "Liberia",
+    "city": "Grand Bassa"
+  },
+  {
+    "country": "Lesotho",
+    "city": "Quthing"
+  },
+  {
+    "country": "Lesotho",
+    "city": "Qachaʼs Nek"
+  },
+  {
+    "country": "Lesotho",
+    "city": "Mohaleʼs Hoek"
+  },
+  {
+    "country": "Lesotho",
+    "city": "Maseru"
+  },
+  {
+    "country": "Lesotho",
+    "city": "Leribe"
+  },
+  {
+    "country": "Lesotho",
+    "city": "Mafeteng"
+  },
+  {
+    "country": "Lesotho",
+    "city": "Butha-Buthe"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Utenos apskritis"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Vilnius County"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Telšių apskritis"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Tauragės apskritis"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Klaipėdos apskritis"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Šiaulių apskritis"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Panevėžys"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Marijampolės apskritis"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Kauno apskritis"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Alytaus apskritis"
+  },
+  {
+    "country": "Luxembourg",
+    "city": "Luxembourg"
+  },
+  {
+    "country": "Latvia",
+    "city": "Valmieras Rajons"
+  },
+  {
+    "country": "Latvia",
+    "city": "Ventspils"
+  },
+  {
+    "country": "Latvia",
+    "city": "Liepāja"
+  },
+  {
+    "country": "Latvia",
+    "city": "Tukuma Rajons"
+  },
+  {
+    "country": "Latvia",
+    "city": "Salaspils"
+  },
+  {
+    "country": "Latvia",
+    "city": "Riga"
+  },
+  {
+    "country": "Latvia",
+    "city": "Rēzekne"
+  },
+  {
+    "country": "Latvia",
+    "city": "Ogre"
+  },
+  {
+    "country": "Latvia",
+    "city": "Jūrmala"
+  },
+  {
+    "country": "Latvia",
+    "city": "Jelgava"
+  },
+  {
+    "country": "Latvia",
+    "city": "Jēkabpils Municipality"
+  },
+  {
+    "country": "Latvia",
+    "city": "Daugavpils municipality"
+  },
+  {
+    "country": "Latvia",
+    "city": "Cēsu Rajons"
+  },
+  {
+    "country": "Libya",
+    "city": "Sha‘bīyat al Buţnān"
+  },
+  {
+    "country": "Libya",
+    "city": "Banghāzī"
+  },
+  {
+    "country": "Libya",
+    "city": "Darnah"
+  },
+  {
+    "country": "Libya",
+    "city": "Sha‘bīyat al Wāḩāt"
+  },
+  {
+    "country": "Libya",
+    "city": "Al Kufrah"
+  },
+  {
+    "country": "Libya",
+    "city": "Al Marj"
+  },
+  {
+    "country": "Libya",
+    "city": "Al Jabal al Akhḑar"
+  },
+  {
+    "country": "Libya",
+    "city": "An Nuqāţ al Khams"
+  },
+  {
+    "country": "Libya",
+    "city": "Mişrātah"
+  },
+  {
+    "country": "Libya",
+    "city": "Sha‘bīyat al Jabal al Gharbī"
+  },
+  {
+    "country": "Libya",
+    "city": "Al Jufrah"
+  },
+  {
+    "country": "Libya",
+    "city": "Al Marqab"
+  },
+  {
+    "country": "Libya",
+    "city": "Tripoli"
+  },
+  {
+    "country": "Libya",
+    "city": "Surt"
+  },
+  {
+    "country": "Libya",
+    "city": "Az Zāwiyah"
+  },
+  {
+    "country": "Libya",
+    "city": "Sabhā"
+  },
+  {
+    "country": "Libya",
+    "city": "Sha‘bīyat Nālūt"
+  },
+  {
+    "country": "Libya",
+    "city": "Murzuq"
+  },
+  {
+    "country": "Libya",
+    "city": "Sha‘bīyat Ghāt"
+  },
+  {
+    "country": "Libya",
+    "city": "Ash Shāţiʼ"
+  },
+  {
+    "country": "Libya",
+    "city": "Sha‘bīyat Wādī al Ḩayāt"
+  },
+  {
+    "country": "Morocco",
+    "city": "Oriental"
+  },
+  {
+    "country": "Morocco",
+    "city": "Souss-Massa-Drâa"
+  },
+  {
+    "country": "Morocco",
+    "city": "Doukkala-Abda"
+  },
+  {
+    "country": "Morocco",
+    "city": "Taza-Al Hoceima-Taounate"
+  },
+  {
+    "country": "Morocco",
+    "city": "Rabat-Salé-Zemmour-Zaër"
+  },
+  {
+    "country": "Morocco",
+    "city": "Tanger-Tétouan"
+  },
+  {
+    "country": "Morocco",
+    "city": "Guelmim-Es Smara"
+  },
+  {
+    "country": "Morocco",
+    "city": "Gharb-Chrarda-Beni Hssen"
+  },
+  {
+    "country": "Morocco",
+    "city": "Chaouia-Ouardigha"
+  },
+  {
+    "country": "Morocco",
+    "city": "Fès-Boulemane"
+  },
+  {
+    "country": "Morocco",
+    "city": "Grand Casablanca"
+  },
+  {
+    "country": "Morocco",
+    "city": "Meknès-Tafilalet"
+  },
+  {
+    "country": "Morocco",
+    "city": "Marrakech-Tensift-Al Haouz"
+  },
+  {
+    "country": "Morocco",
+    "city": "Tadla-Azilal"
+  },
+  {
+    "country": "Morocco",
+    "city": "Oued ed Dahab-Lagouira"
+  },
+  {
+    "country": "Monaco",
+    "city": null
+  },
+  {
+    "country": "Moldova",
+    "city": "Raionul Edineţ"
+  },
+  {
+    "country": "Moldova",
+    "city": "Ungheni"
+  },
+  {
+    "country": "Moldova",
+    "city": "Stînga Nistrului"
+  },
+  {
+    "country": "Moldova",
+    "city": "Strășeni"
+  },
+  {
+    "country": "Moldova",
+    "city": "Sîngerei"
+  },
+  {
+    "country": "Moldova",
+    "city": "Raionul Soroca"
+  },
+  {
+    "country": "Moldova",
+    "city": "Orhei"
+  },
+  {
+    "country": "Moldova",
+    "city": "Hînceşti"
+  },
+  {
+    "country": "Moldova",
+    "city": "Căuşeni"
+  },
+  {
+    "country": "Moldova",
+    "city": "Floreşti"
+  },
+  {
+    "country": "Moldova",
+    "city": "Teleneşti"
+  },
+  {
+    "country": "Moldova",
+    "city": "Drochia"
+  },
+  {
+    "country": "Moldova",
+    "city": "Găgăuzia"
+  },
+  {
+    "country": "Moldova",
+    "city": "Chişinău"
+  },
+  {
+    "country": "Moldova",
+    "city": "Cahul"
+  },
+  {
+    "country": "Moldova",
+    "city": "Bender"
+  },
+  {
+    "country": "Moldova",
+    "city": "Bălţi"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Podgorica"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Pljevlja"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Opština Nikšić"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Herceg Novi"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Cetinje"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Budva"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Bijelo Polje"
+  },
+  {
+    "country": "Montenegro",
+    "city": "Bar"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Atsinanana"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Atsimo-Atsinanana"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Analanjirofo"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Bongolava"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Androy"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Betsiboka"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Atsimo-Andrefana"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Anosy"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Itasy"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Vakinankaratra"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Boeny"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Sava"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Vatovavy Fitovinany"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Analamanga"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Menabe"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Alaotra Mangoro"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Melaky"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Upper Matsiatra"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Ihorombe"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Amoron'i Mania"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Sofia"
+  },
+  {
+    "country": "Madagascar",
+    "city": "Diana"
+  },
+  {
+    "country": "Marshall Islands",
+    "city": "Majuro Atoll"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Želino"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Vinica"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Veles"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Tetovo"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Tearce"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Studeničani"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Strumica"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Struga"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Štip"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Karpoš"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Saraj"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Resen"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Radoviš"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Prilep"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Ohrid"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Vrapčište"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Negotino"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Opstina Lipkovo"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Kumanovo"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Kriva Palanka"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Kočani"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Kičevo"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Kavadarci"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Bogovinje"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Gostivar"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Gevgelija"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Delčevo"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Debar"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Brvenica"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Bitola"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Šuto Orizari"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Butel"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Čair"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Ilinden"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Kisela Voda"
+  },
+  {
+    "country": "Macedonia",
+    "city": "Centar Župa"
+  },
+  {
+    "country": "Mali",
+    "city": "Sikasso"
+  },
+  {
+    "country": "Mali",
+    "city": "Tombouctou"
+  },
+  {
+    "country": "Mali",
+    "city": "Ségou"
+  },
+  {
+    "country": "Mali",
+    "city": "Kayes"
+  },
+  {
+    "country": "Mali",
+    "city": "Mopti"
+  },
+  {
+    "country": "Mali",
+    "city": "Koulikoro"
+  },
+  {
+    "country": "Mali",
+    "city": "Gao"
+  },
+  {
+    "country": "Mali",
+    "city": "Bamako"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Magway"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Ayeyarwady"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Mandalay"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Yangon"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Bago"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Mon"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Tanintharyi"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Shan"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Rakhine"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Sagain"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Kayin"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Kachin"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Kayah"
+  },
+  {
+    "country": "Myanmar",
+    "city": "Chin"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Dzabkhan"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Uvs"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Bayan-Ölgiy"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Hovd"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Govĭ-Altay"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Ulaanbaatar"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Selenge"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Hövsgöl"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Middle Govĭ"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Övörhangay"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Orhon"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Darhan Uul"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Ömnögovĭ"
+  },
+  {
+    "country": "Mongolia",
+    "city": "East Gobi Aymag"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Bulgan"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Bayanhongor"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Sühbaatar"
+  },
+  {
+    "country": "Mongolia",
+    "city": "Central Aimak"
+  },
+  {
+    "country": "Macao",
+    "city": "Macau"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "city": "Saipan"
+  },
+  {
+    "country": "Martinique",
+    "city": "Martinique"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Tiris Zemmour"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Trarza"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Guidimaka"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Nouakchott"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Dakhlet Nouadhibou"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Hodh ech Chargui"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Assaba"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Gorgol"
+  },
+  {
+    "country": "Mauritania",
+    "city": "Brakna"
+  },
+  {
+    "country": "Montserrat",
+    "city": "Saint Anthony"
+  },
+  {
+    "country": "Montserrat",
+    "city": "Saint Peter"
+  },
+  {
+    "country": "Malta",
+    "city": "Ħaż-Żabbar"
+  },
+  {
+    "country": "Malta",
+    "city": "Il-Belt Valletta"
+  },
+  {
+    "country": "Malta",
+    "city": "Qormi"
+  },
+  {
+    "country": "Malta",
+    "city": "Il-Mosta"
+  },
+  {
+    "country": "Malta",
+    "city": "Birkirkara"
+  },
+  {
+    "country": "Mauritius",
+    "city": "Plaines Wilhems"
+  },
+  {
+    "country": "Mauritius",
+    "city": "Pamplemousses"
+  },
+  {
+    "country": "Mauritius",
+    "city": "Moka"
+  },
+  {
+    "country": "Mauritius",
+    "city": "Port Louis"
+  },
+  {
+    "country": "Mauritius",
+    "city": "Grand Port"
+  },
+  {
+    "country": "Mauritius",
+    "city": "Rivière du Rempart"
+  },
+  {
+    "country": "Mauritius",
+    "city": "Flacq"
+  },
+  {
+    "country": "Maldives",
+    "city": "Kaafu Atoll"
+  },
+  {
+    "country": "Malawi",
+    "city": "Northern Region"
+  },
+  {
+    "country": "Malawi",
+    "city": "Southern Region"
+  },
+  {
+    "country": "Malawi",
+    "city": "Central Region"
+  },
+  {
+    "country": "Mexico",
+    "city": "Tamaulipas"
+  },
+  {
+    "country": "Mexico",
+    "city": "México"
+  },
+  {
+    "country": "Mexico",
+    "city": "Guerrero"
+  },
+  {
+    "country": "Mexico",
+    "city": "Hidalgo"
+  },
+  {
+    "country": "Mexico",
+    "city": "Puebla"
+  },
+  {
+    "country": "Mexico",
+    "city": "Morelos"
+  },
+  {
+    "country": "Mexico",
+    "city": "Mexico City"
+  },
+  {
+    "country": "Mexico",
+    "city": "Veracruz"
+  },
+  {
+    "country": "Mexico",
+    "city": "Tabasco"
+  },
+  {
+    "country": "Mexico",
+    "city": "Chiapas"
+  },
+  {
+    "country": "Mexico",
+    "city": "Yucatán"
+  },
+  {
+    "country": "Mexico",
+    "city": "Querétaro"
+  },
+  {
+    "country": "Mexico",
+    "city": "San Luis Potosí"
+  },
+  {
+    "country": "Mexico",
+    "city": "Oaxaca"
+  },
+  {
+    "country": "Mexico",
+    "city": "Tlaxcala"
+  },
+  {
+    "country": "Mexico",
+    "city": "Quintana Roo"
+  },
+  {
+    "country": "Mexico",
+    "city": "Nuevo León"
+  },
+  {
+    "country": "Mexico",
+    "city": "Campeche"
+  },
+  {
+    "country": "Mexico",
+    "city": "Sonora"
+  },
+  {
+    "country": "Mexico",
+    "city": "Sinaloa"
+  },
+  {
+    "country": "Mexico",
+    "city": "Jalisco"
+  },
+  {
+    "country": "Mexico",
+    "city": "Baja California"
+  },
+  {
+    "country": "Mexico",
+    "city": "Michoacán"
+  },
+  {
+    "country": "Mexico",
+    "city": "Zacatecas"
+  },
+  {
+    "country": "Mexico",
+    "city": "Guanajuato"
+  },
+  {
+    "country": "Mexico",
+    "city": "Coahuila"
+  },
+  {
+    "country": "Mexico",
+    "city": "Colima"
+  },
+  {
+    "country": "Mexico",
+    "city": "Nayarit"
+  },
+  {
+    "country": "Mexico",
+    "city": "Durango"
+  },
+  {
+    "country": "Mexico",
+    "city": "Baja California Sur"
+  },
+  {
+    "country": "Mexico",
+    "city": "Aguascalientes"
+  },
+  {
+    "country": "Mexico",
+    "city": "Chihuahua"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kedah"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Pahang"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Johor"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Selangor"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Terengganu"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Sabah"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Labuan"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Perak"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kelantan"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Negeri Sembilan"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Melaka"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Penang"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Sarawak"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Perlis"
+  },
+  {
+    "country": "Malaysia",
+    "city": "Putrajaya"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Gaza"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Sofala"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Tete"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Maputo"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Zambézia"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Cabo Delgado"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Nampula"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Inhambane"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Maputo City"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Niassa"
+  },
+  {
+    "country": "Mozambique",
+    "city": "Manica"
+  },
+  {
+    "country": "Namibia",
+    "city": "Zambezi"
+  },
+  {
+    "country": "Namibia",
+    "city": "Khomas"
+  },
+  {
+    "country": "Namibia",
+    "city": "Erongo"
+  },
+  {
+    "country": "Namibia",
+    "city": "Kavango East"
+  },
+  {
+    "country": "Namibia",
+    "city": "Hardap"
+  },
+  {
+    "country": "Namibia",
+    "city": "Otjozondjupa"
+  },
+  {
+    "country": "Namibia",
+    "city": "Oshana"
+  },
+  {
+    "country": "Namibia",
+    "city": "Karas"
+  },
+  {
+    "country": "Namibia",
+    "city": "Omaheke"
+  },
+  {
+    "country": "Niger",
+    "city": "Tahoua"
+  },
+  {
+    "country": "Niger",
+    "city": "Zinder"
+  },
+  {
+    "country": "Niger",
+    "city": "Tillabéri"
+  },
+  {
+    "country": "Niger",
+    "city": "Maradi"
+  },
+  {
+    "country": "Niger",
+    "city": "Niamey"
+  },
+  {
+    "country": "Niger",
+    "city": "Diffa"
+  },
+  {
+    "country": "Niger",
+    "city": "Dosso"
+  },
+  {
+    "country": "Niger",
+    "city": "Agadez"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Kebbi"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Niger"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Kaduna"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Adamawa"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Bayelsa"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Taraba"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Kano"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Delta"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Nassarawa"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Akwa Ibom"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Edo"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Abia"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Cross River"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Anambra"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Sokoto"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Zamfara"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Benue"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Oyo"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Ogun"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Yobe"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Rivers"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Gombe"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Kwara"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Osun"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Ondo"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Imo"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Kogi"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Ekiti"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Enugu"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Borno"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Katsina"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Lagos"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Abuja Federal Capital Territory"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Jigawa"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Bauchi"
+  },
+  {
+    "country": "Nigeria",
+    "city": "Ebonyi"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Managua"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Madriz"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Chinandega"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Atlántico Norte (RAAN)"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Carazo"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Rivas"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Matagalpa"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Atlántico Sur"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Nueva Segovia"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Granada"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "León"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Masaya"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Chontales"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Jinotega"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Estelí"
+  },
+  {
+    "country": "Nicaragua",
+    "city": "Boaco"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Overijssel"
+  },
+  {
+    "country": "Netherlands",
+    "city": "South Holland"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Gelderland"
+  },
+  {
+    "country": "Netherlands",
+    "city": "North Brabant"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Utrecht"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Flevoland"
+  },
+  {
+    "country": "Netherlands",
+    "city": "North Holland"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Friesland"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Groningen"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Limburg"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Zeeland"
+  },
+  {
+    "country": "Netherlands",
+    "city": "Drenthe"
+  },
+  {
+    "country": "Norway",
+    "city": "Sør-Trøndelag"
+  },
+  {
+    "country": "Norway",
+    "city": "Troms"
+  },
+  {
+    "country": "Norway",
+    "city": "Vestfold"
+  },
+  {
+    "country": "Norway",
+    "city": "Nord-Trøndelag"
+  },
+  {
+    "country": "Norway",
+    "city": "Rogaland"
+  },
+  {
+    "country": "Norway",
+    "city": "Telemark"
+  },
+  {
+    "country": "Norway",
+    "city": "Østfold"
+  },
+  {
+    "country": "Norway",
+    "city": "Oslo"
+  },
+  {
+    "country": "Norway",
+    "city": "Møre og Romsdal"
+  },
+  {
+    "country": "Norway",
+    "city": "Nordland"
+  },
+  {
+    "country": "Norway",
+    "city": "Oppland"
+  },
+  {
+    "country": "Norway",
+    "city": "Vest-Agder"
+  },
+  {
+    "country": "Norway",
+    "city": "Buskerud"
+  },
+  {
+    "country": "Norway",
+    "city": "Hedmark"
+  },
+  {
+    "country": "Norway",
+    "city": "Hordaland"
+  },
+  {
+    "country": "Norway",
+    "city": "Aust-Agder"
+  },
+  {
+    "country": "Nepal",
+    "city": "Western Region"
+  },
+  {
+    "country": "Nepal",
+    "city": "Mid Western"
+  },
+  {
+    "country": "Nepal",
+    "city": "Far Western"
+  },
+  {
+    "country": "Nepal",
+    "city": "Eastern Region"
+  },
+  {
+    "country": "Nauru",
+    "city": "Yaren"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Wellington"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Manawatu-Wanganui"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Canterbury"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Waikato"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Auckland"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Taranaki"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Nelson"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Hawke's Bay"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Southland"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Otago"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Gisborne"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Bay of Plenty"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Northland"
+  },
+  {
+    "country": "New Zealand",
+    "city": "Marlborough"
+  },
+  {
+    "country": "Oman",
+    "city": "Ash Sharqiyah South Governorate"
+  },
+  {
+    "country": "Oman",
+    "city": "Al Batinah North Governorate"
+  },
+  {
+    "country": "Oman",
+    "city": "Muḩāfaz̧at ad Dākhilīyah"
+  },
+  {
+    "country": "Oman",
+    "city": "Z̧ufār"
+  },
+  {
+    "country": "Oman",
+    "city": "Muḩāfaz̧at Masqaţ"
+  },
+  {
+    "country": "Oman",
+    "city": "Musandam"
+  },
+  {
+    "country": "Oman",
+    "city": "Az̧ Z̧āhirah"
+  },
+  {
+    "country": "Oman",
+    "city": "Ash Sharqiyah North Governorate"
+  },
+  {
+    "country": "Oman",
+    "city": "Al Batinah South Governorate"
+  },
+  {
+    "country": "Oman",
+    "city": "Al Buraimi"
+  },
+  {
+    "country": "Panama",
+    "city": "Panamá"
+  },
+  {
+    "country": "Panama",
+    "city": "Veraguas"
+  },
+  {
+    "country": "Panama",
+    "city": "Chiriquí"
+  },
+  {
+    "country": "Panama",
+    "city": "Herrera"
+  },
+  {
+    "country": "Panama",
+    "city": "Bocas del Toro"
+  },
+  {
+    "country": "Panama",
+    "city": "Coclé"
+  },
+  {
+    "country": "Peru",
+    "city": "Loreto"
+  },
+  {
+    "country": "Peru",
+    "city": "La Libertad"
+  },
+  {
+    "country": "Peru",
+    "city": "San Martín"
+  },
+  {
+    "country": "Peru",
+    "city": "Tumbes"
+  },
+  {
+    "country": "Peru",
+    "city": "Huanuco"
+  },
+  {
+    "country": "Peru",
+    "city": "Piura"
+  },
+  {
+    "country": "Peru",
+    "city": "Lambayeque"
+  },
+  {
+    "country": "Peru",
+    "city": "Ucayali"
+  },
+  {
+    "country": "Peru",
+    "city": "Cajamarca"
+  },
+  {
+    "country": "Peru",
+    "city": "Ancash"
+  },
+  {
+    "country": "Peru",
+    "city": "Puno"
+  },
+  {
+    "country": "Peru",
+    "city": "Junín"
+  },
+  {
+    "country": "Peru",
+    "city": "Madre de Dios"
+  },
+  {
+    "country": "Peru",
+    "city": "Tacna"
+  },
+  {
+    "country": "Peru",
+    "city": "Lima region"
+  },
+  {
+    "country": "Peru",
+    "city": "Cusco"
+  },
+  {
+    "country": "Peru",
+    "city": "Ica"
+  },
+  {
+    "country": "Peru",
+    "city": "Moquegua"
+  },
+  {
+    "country": "Peru",
+    "city": "Arequipa"
+  },
+  {
+    "country": "Peru",
+    "city": "Lima Province"
+  },
+  {
+    "country": "Peru",
+    "city": "Ayacucho"
+  },
+  {
+    "country": "Peru",
+    "city": "Huancavelica"
+  },
+  {
+    "country": "Peru",
+    "city": "Pasco"
+  },
+  {
+    "country": "Peru",
+    "city": "Callao"
+  },
+  {
+    "country": "Peru",
+    "city": "Apurímac"
+  },
+  {
+    "country": "French Polynesia",
+    "city": "Îles du Vent"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "East Sepik"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "National Capital"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "Western Highlands"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "Southern Highlands"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "Madang"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "Morobe"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "East New Britain"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "West New Britain"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "Eastern Highlands"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "Western Province"
+  },
+  {
+    "country": "Papua New Guinea",
+    "city": "Bougainville"
+  },
+  {
+    "country": "Philippines",
+    "city": "Zamboanga Peninsula"
+  },
+  {
+    "country": "Philippines",
+    "city": "Autonomous Region in Muslim Mindanao"
+  },
+  {
+    "country": "Philippines",
+    "city": "Bicol"
+  },
+  {
+    "country": "Philippines",
+    "city": "Ilocos"
+  },
+  {
+    "country": "Philippines",
+    "city": "Western Visayas"
+  },
+  {
+    "country": "Philippines",
+    "city": "Calabarzon"
+  },
+  {
+    "country": "Philippines",
+    "city": "Caraga"
+  },
+  {
+    "country": "Philippines",
+    "city": "Northern Mindanao"
+  },
+  {
+    "country": "Philippines",
+    "city": "Davao"
+  },
+  {
+    "country": "Philippines",
+    "city": "Cagayan Valley"
+  },
+  {
+    "country": "Philippines",
+    "city": "Central Visayas"
+  },
+  {
+    "country": "Philippines",
+    "city": "Central Luzon"
+  },
+  {
+    "country": "Philippines",
+    "city": "Metro Manila"
+  },
+  {
+    "country": "Philippines",
+    "city": "Eastern Visayas"
+  },
+  {
+    "country": "Philippines",
+    "city": "Soccsksargen"
+  },
+  {
+    "country": "Philippines",
+    "city": "Cordillera"
+  },
+  {
+    "country": "Philippines",
+    "city": "Mimaropa"
+  },
+  {
+    "country": "Pakistan",
+    "city": "Sindh"
+  },
+  {
+    "country": "Pakistan",
+    "city": "Azad Kashmir"
+  },
+  {
+    "country": "Pakistan",
+    "city": "Balochistān"
+  },
+  {
+    "country": "Pakistan",
+    "city": "Khyber Pakhtunkhwa"
+  },
+  {
+    "country": "Pakistan",
+    "city": "Islāmābād"
+  },
+  {
+    "country": "Poland",
+    "city": "Masovian Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Lublin Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Podlasie"
+  },
+  {
+    "country": "Poland",
+    "city": "Lesser Poland Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Łódź Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Subcarpathian Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Warmian-Masurian Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Świętokrzyskie"
+  },
+  {
+    "country": "Poland",
+    "city": "Silesian Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Greater Poland Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Lower Silesian Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Lubusz"
+  },
+  {
+    "country": "Poland",
+    "city": "Kujawsko-Pomorskie"
+  },
+  {
+    "country": "Poland",
+    "city": "Pomeranian Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "West Pomeranian Voivodeship"
+  },
+  {
+    "country": "Poland",
+    "city": "Opole Voivodeship"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "city": "Saint-Pierre"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Aguadilla"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Arecibo"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Barceloneta"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Bayamón"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Caguas"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Toa Baja"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Carolina"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Catano"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Cayey"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Fajardo"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Guayama"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Guaynabo"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Humacao"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Manati"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Mayaguez"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Ponce"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Trujillo Alto"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Vega Baja"
+  },
+  {
+    "country": "Puerto Rico",
+    "city": "Yauco"
+  },
+  {
+    "country": "Palestinian Territory",
+    "city": "Gaza Strip"
+  },
+  {
+    "country": "Palestinian Territory",
+    "city": "West Bank"
+  },
+  {
+    "country": "Portugal",
+    "city": "Lisbon"
+  },
+  {
+    "country": "Portugal",
+    "city": "Santarém"
+  },
+  {
+    "country": "Portugal",
+    "city": "Setúbal"
+  },
+  {
+    "country": "Portugal",
+    "city": "Faro"
+  },
+  {
+    "country": "Portugal",
+    "city": "Portalegre"
+  },
+  {
+    "country": "Portugal",
+    "city": "Leiria"
+  },
+  {
+    "country": "Portugal",
+    "city": "Madeira"
+  },
+  {
+    "country": "Portugal",
+    "city": "Évora"
+  },
+  {
+    "country": "Portugal",
+    "city": "Castelo Branco"
+  },
+  {
+    "country": "Portugal",
+    "city": "Beja"
+  },
+  {
+    "country": "Portugal",
+    "city": "Viseu"
+  },
+  {
+    "country": "Portugal",
+    "city": "Vila Real"
+  },
+  {
+    "country": "Portugal",
+    "city": "Porto"
+  },
+  {
+    "country": "Portugal",
+    "city": "Viana do Castelo"
+  },
+  {
+    "country": "Portugal",
+    "city": "Guarda"
+  },
+  {
+    "country": "Portugal",
+    "city": "Aveiro"
+  },
+  {
+    "country": "Portugal",
+    "city": "Braga"
+  },
+  {
+    "country": "Portugal",
+    "city": "Coimbra"
+  },
+  {
+    "country": "Portugal",
+    "city": "Bragança"
+  },
+  {
+    "country": "Portugal",
+    "city": "Azores"
+  },
+  {
+    "country": "Palau",
+    "city": "Melekeok"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Guairá"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Presidente Hayes"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Alto Paraná"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Ñeembucú"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Amambay"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Itapúa"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Caaguazú"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Concepción"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Caazapá"
+  },
+  {
+    "country": "Paraguay",
+    "city": "Asunción"
+  },
+  {
+    "country": "Qatar",
+    "city": "Baladīyat Umm Şalāl"
+  },
+  {
+    "country": "Qatar",
+    "city": "Baladīyat ar Rayyān"
+  },
+  {
+    "country": "Qatar",
+    "city": "Al Wakrah"
+  },
+  {
+    "country": "Qatar",
+    "city": "Al Khawr"
+  },
+  {
+    "country": "Qatar",
+    "city": "Baladīyat ad Dawḩah"
+  },
+  {
+    "country": "Reunion",
+    "city": "Réunion"
+  },
+  {
+    "country": "Romania",
+    "city": "Teleorman"
+  },
+  {
+    "country": "Romania",
+    "city": "Braşov"
+  },
+  {
+    "country": "Romania",
+    "city": "Sălaj"
+  },
+  {
+    "country": "Romania",
+    "city": "Hunedoara"
+  },
+  {
+    "country": "Romania",
+    "city": "Ilfov"
+  },
+  {
+    "country": "Romania",
+    "city": "Maramureş"
+  },
+  {
+    "country": "Romania",
+    "city": "Suceava"
+  },
+  {
+    "country": "Romania",
+    "city": "Vaslui"
+  },
+  {
+    "country": "Romania",
+    "city": "Ialomiţa"
+  },
+  {
+    "country": "Romania",
+    "city": "Cluj"
+  },
+  {
+    "country": "Romania",
+    "city": "Tulcea"
+  },
+  {
+    "country": "Romania",
+    "city": "Mureş"
+  },
+  {
+    "country": "Romania",
+    "city": "Covasna"
+  },
+  {
+    "country": "Romania",
+    "city": "Neamţ"
+  },
+  {
+    "country": "Romania",
+    "city": "Gorj"
+  },
+  {
+    "country": "Romania",
+    "city": "Dâmboviţa"
+  },
+  {
+    "country": "Romania",
+    "city": "Timiş"
+  },
+  {
+    "country": "Romania",
+    "city": "Galaţi"
+  },
+  {
+    "country": "Romania",
+    "city": "Olt"
+  },
+  {
+    "country": "Romania",
+    "city": "Sibiu"
+  },
+  {
+    "country": "Romania",
+    "city": "Alba"
+  },
+  {
+    "country": "Romania",
+    "city": "Satu Mare"
+  },
+  {
+    "country": "Romania",
+    "city": "Bihor"
+  },
+  {
+    "country": "Romania",
+    "city": "Vâlcea"
+  },
+  {
+    "country": "Romania",
+    "city": "Buzău"
+  },
+  {
+    "country": "Romania",
+    "city": "Caraş-Severin"
+  },
+  {
+    "country": "Romania",
+    "city": "Prahova"
+  },
+  {
+    "country": "Romania",
+    "city": "Argeş"
+  },
+  {
+    "country": "Romania",
+    "city": "Călăraşi"
+  },
+  {
+    "country": "Romania",
+    "city": "Harghita"
+  },
+  {
+    "country": "Romania",
+    "city": "Constanța"
+  },
+  {
+    "country": "Romania",
+    "city": "Bacău"
+  },
+  {
+    "country": "Romania",
+    "city": "Iaşi"
+  },
+  {
+    "country": "Romania",
+    "city": "Giurgiu"
+  },
+  {
+    "country": "Romania",
+    "city": "Vrancea"
+  },
+  {
+    "country": "Romania",
+    "city": "Dolj"
+  },
+  {
+    "country": "Romania",
+    "city": "Mehedinţi"
+  },
+  {
+    "country": "Romania",
+    "city": "Botoşani"
+  },
+  {
+    "country": "Romania",
+    "city": "Bucureşti"
+  },
+  {
+    "country": "Romania",
+    "city": "Brăila"
+  },
+  {
+    "country": "Romania",
+    "city": "Bistriţa-Năsăud"
+  },
+  {
+    "country": "Romania",
+    "city": "Arad"
+  },
+  {
+    "country": "Serbia",
+    "city": "Vojvodina"
+  },
+  {
+    "country": "Serbia",
+    "city": "Central Serbia"
+  },
+  {
+    "country": "Russia",
+    "city": "Tverskaya"
+  },
+  {
+    "country": "Russia",
+    "city": "St.-Petersburg"
+  },
+  {
+    "country": "Russia",
+    "city": "Rjazan"
+  },
+  {
+    "country": "Russia",
+    "city": "Moscow"
+  },
+  {
+    "country": "Russia",
+    "city": "Rostov"
+  },
+  {
+    "country": "Russia",
+    "city": "MO"
+  },
+  {
+    "country": "Russia",
+    "city": "Chelyabinsk"
+  },
+  {
+    "country": "Russia",
+    "city": "Brjansk"
+  },
+  {
+    "country": "Russia",
+    "city": "Volgograd"
+  },
+  {
+    "country": "Russia",
+    "city": "Samara"
+  },
+  {
+    "country": "Russia",
+    "city": "Tambov"
+  },
+  {
+    "country": "Russia",
+    "city": "Stavropol'skiy"
+  },
+  {
+    "country": "Russia",
+    "city": "Kursk"
+  },
+  {
+    "country": "Russia",
+    "city": "Tatarstan"
+  },
+  {
+    "country": "Russia",
+    "city": "Karachayevo-Cherkesiya"
+  },
+  {
+    "country": "Russia",
+    "city": "Nizjnij Novgorod"
+  },
+  {
+    "country": "Russia",
+    "city": "Penza"
+  },
+  {
+    "country": "Russia",
+    "city": "Murmansk"
+  },
+  {
+    "country": "Russia",
+    "city": "Vladimir"
+  },
+  {
+    "country": "Russia",
+    "city": "Mariy-El"
+  },
+  {
+    "country": "Russia",
+    "city": "Krasnodarskiy"
+  },
+  {
+    "country": "Russia",
+    "city": "Saratov"
+  },
+  {
+    "country": "Russia",
+    "city": "Komi Republic"
+  },
+  {
+    "country": "Russia",
+    "city": "Lipetsk"
+  },
+  {
+    "country": "Russia",
+    "city": "Tula"
+  },
+  {
+    "country": "Russia",
+    "city": "Orenburg"
+  },
+  {
+    "country": "Russia",
+    "city": "Smolensk"
+  },
+  {
+    "country": "Russia",
+    "city": "Jaroslavl"
+  },
+  {
+    "country": "Russia",
+    "city": "Kirov"
+  },
+  {
+    "country": "Russia",
+    "city": "Bashkortostan"
+  },
+  {
+    "country": "Russia",
+    "city": "Arkhangelskaya"
+  },
+  {
+    "country": "Russia",
+    "city": "Adygeya"
+  },
+  {
+    "country": "Russia",
+    "city": "Leningrad"
+  },
+  {
+    "country": "Russia",
+    "city": "Udmurtiya"
+  },
+  {
+    "country": "Russia",
+    "city": "Voronezj"
+  },
+  {
+    "country": "Russia",
+    "city": "Vologda"
+  },
+  {
+    "country": "Russia",
+    "city": "Kostroma"
+  },
+  {
+    "country": "Russia",
+    "city": "North Ossetia"
+  },
+  {
+    "country": "Russia",
+    "city": "Ivanovo"
+  },
+  {
+    "country": "Russia",
+    "city": "Perm"
+  },
+  {
+    "country": "Russia",
+    "city": "Pskov"
+  },
+  {
+    "country": "Russia",
+    "city": "Belgorod"
+  },
+  {
+    "country": "Russia",
+    "city": "Novgorod"
+  },
+  {
+    "country": "Russia",
+    "city": "Chechnya"
+  },
+  {
+    "country": "Russia",
+    "city": "Ulyanovsk"
+  },
+  {
+    "country": "Russia",
+    "city": "Kabardino-Balkariya"
+  },
+  {
+    "country": "Russia",
+    "city": "Ingushetiya"
+  },
+  {
+    "country": "Russia",
+    "city": "Kaliningrad"
+  },
+  {
+    "country": "Russia",
+    "city": "Kaluga"
+  },
+  {
+    "country": "Russia",
+    "city": "Republic of Karelia"
+  },
+  {
+    "country": "Russia",
+    "city": "Chuvashia"
+  },
+  {
+    "country": "Russia",
+    "city": "Sverdlovsk"
+  },
+  {
+    "country": "Russia",
+    "city": "Mordoviya"
+  },
+  {
+    "country": "Russia",
+    "city": "Orjol"
+  },
+  {
+    "country": "Russia",
+    "city": "Nenetskiy Avtonomnyy Okrug"
+  },
+  {
+    "country": "Russia",
+    "city": "Dagestan"
+  },
+  {
+    "country": "Russia",
+    "city": "Astrakhan"
+  },
+  {
+    "country": "Russia",
+    "city": "Kalmykiya"
+  },
+  {
+    "country": "Russia",
+    "city": "Tjumen"
+  },
+  {
+    "country": "Russia",
+    "city": "Altai Krai"
+  },
+  {
+    "country": "Russia",
+    "city": "Kemerovo"
+  },
+  {
+    "country": "Russia",
+    "city": "Krasnoyarskiy"
+  },
+  {
+    "country": "Russia",
+    "city": "Khanty-Mansiyskiy Avtonomnyy Okrug"
+  },
+  {
+    "country": "Russia",
+    "city": "Tomsk"
+  },
+  {
+    "country": "Russia",
+    "city": "Novosibirsk"
+  },
+  {
+    "country": "Russia",
+    "city": "Irkutsk"
+  },
+  {
+    "country": "Russia",
+    "city": "Yamalo-Nenetskiy Avtonomnyy Okrug"
+  },
+  {
+    "country": "Russia",
+    "city": "Omsk"
+  },
+  {
+    "country": "Russia",
+    "city": "Kurgan"
+  },
+  {
+    "country": "Russia",
+    "city": "Khakasiya"
+  },
+  {
+    "country": "Russia",
+    "city": "Altai Republic"
+  },
+  {
+    "country": "Russia",
+    "city": "Tyva"
+  },
+  {
+    "country": "Russia",
+    "city": "Amur"
+  },
+  {
+    "country": "Russia",
+    "city": "Sakha"
+  },
+  {
+    "country": "Russia",
+    "city": "Khabarovsk Krai"
+  },
+  {
+    "country": "Russia",
+    "city": "Primorskiy"
+  },
+  {
+    "country": "Russia",
+    "city": "Respublika Buryatiya"
+  },
+  {
+    "country": "Russia",
+    "city": "Transbaikal Territory"
+  },
+  {
+    "country": "Russia",
+    "city": "Jewish Autonomous Oblast"
+  },
+  {
+    "country": "Russia",
+    "city": "Kamtsjatka"
+  },
+  {
+    "country": "Russia",
+    "city": "Sakhalin"
+  },
+  {
+    "country": "Russia",
+    "city": "Magadan"
+  },
+  {
+    "country": "Rwanda",
+    "city": "Southern Province"
+  },
+  {
+    "country": "Rwanda",
+    "city": "Kigali"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Al Madīnah al Munawwarah"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Minţaqat Tabūk"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Northern Borders"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Makkah"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Al Jawf"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Jizan"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Minţaqat ‘Asīr"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Najrān"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Ḩāʼil"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Al-Qassim"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Ar Riyāḑ"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Minţaqat al Bāḩah"
+  },
+  {
+    "country": "Solomon Islands",
+    "city": "Guadalcanal"
+  },
+  {
+    "country": "Seychelles",
+    "city": "English River"
+  },
+  {
+    "country": "Sudan",
+    "city": "Central Darfur"
+  },
+  {
+    "country": "Sudan",
+    "city": "Al Jazīrah"
+  },
+  {
+    "country": "Sudan",
+    "city": "Shamāl Kurdufān"
+  },
+  {
+    "country": "Sudan",
+    "city": "Khartoum"
+  },
+  {
+    "country": "Sudan",
+    "city": "White Nile"
+  },
+  {
+    "country": "Sudan",
+    "city": "Sinnār"
+  },
+  {
+    "country": "Sudan",
+    "city": "River Nile"
+  },
+  {
+    "country": "Sudan",
+    "city": "Northern State"
+  },
+  {
+    "country": "Sudan",
+    "city": "Kassala"
+  },
+  {
+    "country": "Sudan",
+    "city": "Southern Kordofan"
+  },
+  {
+    "country": "Sudan",
+    "city": "Al Qaḑārif"
+  },
+  {
+    "country": "Sudan",
+    "city": "Blue Nile"
+  },
+  {
+    "country": "Sudan",
+    "city": "West Kordofan State"
+  },
+  {
+    "country": "Sudan",
+    "city": "Western Darfur"
+  },
+  {
+    "country": "Sudan",
+    "city": "Northern Darfur"
+  },
+  {
+    "country": "Sudan",
+    "city": "Eastern Darfur"
+  },
+  {
+    "country": "Sweden",
+    "city": "Västerbotten"
+  },
+  {
+    "country": "Sweden",
+    "city": "Norrbotten"
+  },
+  {
+    "country": "Sweden",
+    "city": "Skåne"
+  },
+  {
+    "country": "Sweden",
+    "city": "Gotland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Kronoberg"
+  },
+  {
+    "country": "Sweden",
+    "city": "Kalmar"
+  },
+  {
+    "country": "Sweden",
+    "city": "Västmanland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Jönköping"
+  },
+  {
+    "country": "Sweden",
+    "city": "Halland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Västra Götaland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Stockholm"
+  },
+  {
+    "country": "Sweden",
+    "city": "Uppsala"
+  },
+  {
+    "country": "Sweden",
+    "city": "Västernorrland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Gävleborg"
+  },
+  {
+    "country": "Sweden",
+    "city": "Jämtland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Örebro"
+  },
+  {
+    "country": "Sweden",
+    "city": "Södermanland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Östergötland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Värmland"
+  },
+  {
+    "country": "Sweden",
+    "city": "Blekinge"
+  },
+  {
+    "country": "Sweden",
+    "city": "Dalarna"
+  },
+  {
+    "country": "Singapore",
+    "city": "Central Singapore"
+  },
+  {
+    "country": "Saint Helena",
+    "city": "Saint Helena"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Trbovlje"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Velenje"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Ptuj"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Novo Mesto"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Maribor"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Ljubljana"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Kranj"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Koper-Capodistria"
+  },
+  {
+    "country": "Slovenia",
+    "city": "Celje"
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "city": "Svalbard"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Prešovský"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Košický"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Banskobystrický"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Nitriansky"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Žilinský"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Trnavský"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Trenčiansky"
+  },
+  {
+    "country": "Slovakia",
+    "city": "Bratislavský"
+  },
+  {
+    "country": "Sierra Leone",
+    "city": "Western Area"
+  },
+  {
+    "country": "San Marino",
+    "city": "San Marino"
+  },
+  {
+    "country": "Senegal",
+    "city": "Ziguinchor"
+  },
+  {
+    "country": "Senegal",
+    "city": "Kolda"
+  },
+  {
+    "country": "Senegal",
+    "city": "Diourbel"
+  },
+  {
+    "country": "Senegal",
+    "city": "Thiès"
+  },
+  {
+    "country": "Senegal",
+    "city": "Tambacounda"
+  },
+  {
+    "country": "Senegal",
+    "city": "Sédhiou"
+  },
+  {
+    "country": "Senegal",
+    "city": "Saint-Louis"
+  },
+  {
+    "country": "Senegal",
+    "city": "Fatick"
+  },
+  {
+    "country": "Senegal",
+    "city": "Dakar"
+  },
+  {
+    "country": "Senegal",
+    "city": "Kaolack"
+  },
+  {
+    "country": "Senegal",
+    "city": "Louga"
+  },
+  {
+    "country": "Senegal",
+    "city": "Matam"
+  },
+  {
+    "country": "Senegal",
+    "city": "Kédougou"
+  },
+  {
+    "country": "Senegal",
+    "city": "Kaffrine"
+  },
+  {
+    "country": "Somalia",
+    "city": "Lower Shabeelle"
+  },
+  {
+    "country": "Somalia",
+    "city": "Bari"
+  },
+  {
+    "country": "Somalia",
+    "city": "Banaadir"
+  },
+  {
+    "country": "Somalia",
+    "city": "Gedo"
+  },
+  {
+    "country": "Somalia",
+    "city": "Lower Juba"
+  },
+  {
+    "country": "Somalia",
+    "city": "Middle Juba"
+  },
+  {
+    "country": "Somalia",
+    "city": "Middle Shabele"
+  },
+  {
+    "country": "Somalia",
+    "city": "Woqooyi Galbeed"
+  },
+  {
+    "country": "Somalia",
+    "city": "Nugaal"
+  },
+  {
+    "country": "Somalia",
+    "city": "Mudug"
+  },
+  {
+    "country": "Somalia",
+    "city": "Sanaag"
+  },
+  {
+    "country": "Somalia",
+    "city": "Galguduud"
+  },
+  {
+    "country": "Somalia",
+    "city": "Bay"
+  },
+  {
+    "country": "Somalia",
+    "city": "Hiiraan"
+  },
+  {
+    "country": "Somalia",
+    "city": "Togdheer"
+  },
+  {
+    "country": "Somalia",
+    "city": "Sool"
+  },
+  {
+    "country": "Somalia",
+    "city": "Awdal"
+  },
+  {
+    "country": "Suriname",
+    "city": "Paramaribo"
+  },
+  {
+    "country": "Suriname",
+    "city": "Wanica"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Central Equatoria"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Western Equatoria"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Western Bahr al Ghazal"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Northern Bahr al Ghazal"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Eastern Equatoria"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Warrap"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Lakes"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Upper Nile"
+  },
+  {
+    "country": "South Sudan",
+    "city": "Jonglei"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "city": "São Tomé Island"
+  },
+  {
+    "country": "El Salvador",
+    "city": "Usulután"
+  },
+  {
+    "country": "El Salvador",
+    "city": "San Salvador"
+  },
+  {
+    "country": "El Salvador",
+    "city": "Sonsonate"
+  },
+  {
+    "country": "El Salvador",
+    "city": "Cabañas"
+  },
+  {
+    "country": "El Salvador",
+    "city": "San Vicente"
+  },
+  {
+    "country": "El Salvador",
+    "city": "Santa Ana"
+  },
+  {
+    "country": "El Salvador",
+    "city": "San Miguel"
+  },
+  {
+    "country": "El Salvador",
+    "city": "Cuscatlán"
+  },
+  {
+    "country": "El Salvador",
+    "city": "Morazán"
+  },
+  {
+    "country": "El Salvador",
+    "city": "La Unión"
+  },
+  {
+    "country": "El Salvador",
+    "city": "Chalatenango"
+  },
+  {
+    "country": "El Salvador",
+    "city": "Ahuachapán"
+  },
+  {
+    "country": "Syria",
+    "city": "Rif-dimashq"
+  },
+  {
+    "country": "Syria",
+    "city": "Hama"
+  },
+  {
+    "country": "Syria",
+    "city": "Tartus"
+  },
+  {
+    "country": "Syria",
+    "city": "Aleppo"
+  },
+  {
+    "country": "Syria",
+    "city": "Homs"
+  },
+  {
+    "country": "Syria",
+    "city": "Daraa"
+  },
+  {
+    "country": "Syria",
+    "city": "Deir ez-Zor"
+  },
+  {
+    "country": "Syria",
+    "city": "Idlib"
+  },
+  {
+    "country": "Syria",
+    "city": "Latakia"
+  },
+  {
+    "country": "Syria",
+    "city": "Dimashq"
+  },
+  {
+    "country": "Syria",
+    "city": "Al-Hasakah"
+  },
+  {
+    "country": "Syria",
+    "city": "Ar-Raqqah"
+  },
+  {
+    "country": "Syria",
+    "city": "As-Suwayda"
+  },
+  {
+    "country": "Syria",
+    "city": "Quneitra"
+  },
+  {
+    "country": "Swaziland",
+    "city": "Hhohho"
+  },
+  {
+    "country": "Swaziland",
+    "city": "Manzini"
+  },
+  {
+    "country": "Chad",
+    "city": "Ennedi-Ouest"
+  },
+  {
+    "country": "Chad",
+    "city": "Salamat"
+  },
+  {
+    "country": "Chad",
+    "city": "Ouaddaï"
+  },
+  {
+    "country": "Chad",
+    "city": "Moyen-Chari"
+  },
+  {
+    "country": "Chad",
+    "city": "Mayo-Kebbi Ouest"
+  },
+  {
+    "country": "Chad",
+    "city": "Batha"
+  },
+  {
+    "country": "Chad",
+    "city": "Chari-Baguirmi"
+  },
+  {
+    "country": "Chad",
+    "city": "Barh el Gazel"
+  },
+  {
+    "country": "Chad",
+    "city": "Logone Occidental"
+  },
+  {
+    "country": "Chad",
+    "city": "Guéra"
+  },
+  {
+    "country": "Chad",
+    "city": "Hadjer-Lamis"
+  },
+  {
+    "country": "Chad",
+    "city": "Kanem"
+  },
+  {
+    "country": "Chad",
+    "city": "Tandjilé"
+  },
+  {
+    "country": "Chad",
+    "city": "Mandoul"
+  },
+  {
+    "country": "Chad",
+    "city": "Logone Oriental"
+  },
+  {
+    "country": "Chad",
+    "city": "Mayo-Kebbi Est"
+  },
+  {
+    "country": "French Southern Territories",
+    "city": "Kerguelen"
+  },
+  {
+    "country": "Togo",
+    "city": "Maritime"
+  },
+  {
+    "country": "Togo",
+    "city": "Centrale"
+  },
+  {
+    "country": "Togo",
+    "city": "Kara"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phuket"
+  },
+  {
+    "country": "Thailand",
+    "city": "Prachuap Khiri Khan"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phetchaburi"
+  },
+  {
+    "country": "Thailand",
+    "city": "Trang"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nakhon Si Thammarat"
+  },
+  {
+    "country": "Thailand",
+    "city": "Lampang"
+  },
+  {
+    "country": "Thailand",
+    "city": "Uthai Thani"
+  },
+  {
+    "country": "Thailand",
+    "city": "Kanchanaburi"
+  },
+  {
+    "country": "Thailand",
+    "city": "Tak"
+  },
+  {
+    "country": "Thailand",
+    "city": "Surat Thani"
+  },
+  {
+    "country": "Thailand",
+    "city": "Sukhothai"
+  },
+  {
+    "country": "Thailand",
+    "city": "Chiang Mai"
+  },
+  {
+    "country": "Thailand",
+    "city": "Ratchaburi"
+  },
+  {
+    "country": "Thailand",
+    "city": "Ranong"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phayao"
+  },
+  {
+    "country": "Thailand",
+    "city": "Lamphun"
+  },
+  {
+    "country": "Thailand",
+    "city": "Chiang Rai"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nakhon Sawan"
+  },
+  {
+    "country": "Thailand",
+    "city": "Chumphon"
+  },
+  {
+    "country": "Thailand",
+    "city": "Krabi"
+  },
+  {
+    "country": "Thailand",
+    "city": "Kamphaeng Phet"
+  },
+  {
+    "country": "Thailand",
+    "city": "Kalasin"
+  },
+  {
+    "country": "Thailand",
+    "city": "Changwat Udon Thani"
+  },
+  {
+    "country": "Thailand",
+    "city": "Songkhla"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nakhon Ratchasima"
+  },
+  {
+    "country": "Thailand",
+    "city": "Samut Prakan"
+  },
+  {
+    "country": "Thailand",
+    "city": "Changwat Nong Bua Lamphu"
+  },
+  {
+    "country": "Thailand",
+    "city": "Yasothon"
+  },
+  {
+    "country": "Thailand",
+    "city": "Pattani"
+  },
+  {
+    "country": "Thailand",
+    "city": "Yala"
+  },
+  {
+    "country": "Thailand",
+    "city": "Ang Thong"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phetchabun"
+  },
+  {
+    "country": "Thailand",
+    "city": "Changwat Ubon Ratchathani"
+  },
+  {
+    "country": "Thailand",
+    "city": "Loei"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "country": "Thailand",
+    "city": "Sa Kaeo"
+  },
+  {
+    "country": "Thailand",
+    "city": "Uttaradit"
+  },
+  {
+    "country": "Thailand",
+    "city": "Trat"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phichit"
+  },
+  {
+    "country": "Thailand",
+    "city": "Chanthaburi"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nong Khai"
+  },
+  {
+    "country": "Thailand",
+    "city": "Narathiwat"
+  },
+  {
+    "country": "Thailand",
+    "city": "Surin"
+  },
+  {
+    "country": "Thailand",
+    "city": "Suphan Buri"
+  },
+  {
+    "country": "Thailand",
+    "city": "Sisaket"
+  },
+  {
+    "country": "Thailand",
+    "city": "Chon Buri"
+  },
+  {
+    "country": "Thailand",
+    "city": "Sing Buri"
+  },
+  {
+    "country": "Thailand",
+    "city": "Changwat Bueng Kan"
+  },
+  {
+    "country": "Thailand",
+    "city": "Sakon Nakhon"
+  },
+  {
+    "country": "Thailand",
+    "city": "Satun"
+  },
+  {
+    "country": "Thailand",
+    "city": "Sara Buri"
+  },
+  {
+    "country": "Thailand",
+    "city": "Samut Songkhram"
+  },
+  {
+    "country": "Thailand",
+    "city": "Samut Sakhon"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nakhon Pathom"
+  },
+  {
+    "country": "Thailand",
+    "city": "Roi Et"
+  },
+  {
+    "country": "Thailand",
+    "city": "Rayong"
+  },
+  {
+    "country": "Thailand",
+    "city": "Buriram"
+  },
+  {
+    "country": "Thailand",
+    "city": "Prachin Buri"
+  },
+  {
+    "country": "Thailand",
+    "city": "Chaiyaphum"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phrae"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phitsanulok"
+  },
+  {
+    "country": "Thailand",
+    "city": "Phatthalung"
+  },
+  {
+    "country": "Thailand",
+    "city": "Chachoengsao"
+  },
+  {
+    "country": "Thailand",
+    "city": "Pathum Thani"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nonthaburi"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nan"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nakhon Phanom"
+  },
+  {
+    "country": "Thailand",
+    "city": "Nakhon Nayok"
+  },
+  {
+    "country": "Thailand",
+    "city": "Mukdahan"
+  },
+  {
+    "country": "Thailand",
+    "city": "Maha Sarakham"
+  },
+  {
+    "country": "Thailand",
+    "city": "Lop Buri"
+  },
+  {
+    "country": "Thailand",
+    "city": "Bangkok"
+  },
+  {
+    "country": "Thailand",
+    "city": "Khon Kaen"
+  },
+  {
+    "country": "Thailand",
+    "city": "Chai Nat"
+  },
+  {
+    "country": "Thailand",
+    "city": "Amnat Charoen"
+  },
+  {
+    "country": "Tajikistan",
+    "city": "Khatlon"
+  },
+  {
+    "country": "Tajikistan",
+    "city": "Viloyati Sughd"
+  },
+  {
+    "country": "Tajikistan",
+    "city": "Republican Subordination"
+  },
+  {
+    "country": "Tajikistan",
+    "city": "Gorno-Badakhshan"
+  },
+  {
+    "country": "Tajikistan",
+    "city": "Dushanbe"
+  },
+  {
+    "country": "East Timor",
+    "city": "Cova Lima"
+  },
+  {
+    "country": "East Timor",
+    "city": "Liquiçá"
+  },
+  {
+    "country": "East Timor",
+    "city": "Bobonaro"
+  },
+  {
+    "country": "East Timor",
+    "city": "Díli"
+  },
+  {
+    "country": "East Timor",
+    "city": "Baucau"
+  },
+  {
+    "country": "East Timor",
+    "city": "Aileu"
+  },
+  {
+    "country": "East Timor",
+    "city": "Manufahi"
+  },
+  {
+    "country": "East Timor",
+    "city": "Lautém"
+  },
+  {
+    "country": "Turkmenistan",
+    "city": "Balkan"
+  },
+  {
+    "country": "Turkmenistan",
+    "city": "Ahal"
+  },
+  {
+    "country": "Turkmenistan",
+    "city": "Daşoguz"
+  },
+  {
+    "country": "Turkmenistan",
+    "city": "Mary"
+  },
+  {
+    "country": "Turkmenistan",
+    "city": "Lebap"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Zaghwān"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Tūnis"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Tawzar"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Tataouine"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Al Qaşrayn"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Nābul"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Kef"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Sūsah"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Silyānah"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Sīdī Bū Zayd"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Al Munastīr"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Şafāqis"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Al Mahdīyah"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Qibilī"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Ariana"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Gafsa"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Qābis"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Madanīn"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Banzart"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Manouba"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Bājah"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Jundūbah"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Bin ‘Arūs"
+  },
+  {
+    "country": "Tunisia",
+    "city": "Al Qayrawān"
+  },
+  {
+    "country": "Tonga",
+    "city": "Tongatapu"
+  },
+  {
+    "country": "Turkey",
+    "city": "Hakkâri"
+  },
+  {
+    "country": "Turkey",
+    "city": "Yozgat"
+  },
+  {
+    "country": "Turkey",
+    "city": "Mardin"
+  },
+  {
+    "country": "Turkey",
+    "city": "Hatay"
+  },
+  {
+    "country": "Turkey",
+    "city": "Aydın"
+  },
+  {
+    "country": "Turkey",
+    "city": "Muğla"
+  },
+  {
+    "country": "Turkey",
+    "city": "Isparta"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kayseri"
+  },
+  {
+    "country": "Turkey",
+    "city": "Şanlıurfa"
+  },
+  {
+    "country": "Turkey",
+    "city": "Muş"
+  },
+  {
+    "country": "Turkey",
+    "city": "Van"
+  },
+  {
+    "country": "Turkey",
+    "city": "Erzincan"
+  },
+  {
+    "country": "Turkey",
+    "city": "Uşak"
+  },
+  {
+    "country": "Turkey",
+    "city": "İzmir"
+  },
+  {
+    "country": "Turkey",
+    "city": "Nevşehir"
+  },
+  {
+    "country": "Turkey",
+    "city": "Manisa"
+  },
+  {
+    "country": "Turkey",
+    "city": "Tunceli"
+  },
+  {
+    "country": "Turkey",
+    "city": "Antalya"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kütahya"
+  },
+  {
+    "country": "Turkey",
+    "city": "Bitlis"
+  },
+  {
+    "country": "Turkey",
+    "city": "Mersin"
+  },
+  {
+    "country": "Turkey",
+    "city": "Balıkesir"
+  },
+  {
+    "country": "Turkey",
+    "city": "Bingöl"
+  },
+  {
+    "country": "Turkey",
+    "city": "Sivas"
+  },
+  {
+    "country": "Turkey",
+    "city": "Şırnak"
+  },
+  {
+    "country": "Turkey",
+    "city": "Diyarbakır"
+  },
+  {
+    "country": "Turkey",
+    "city": "Siirt"
+  },
+  {
+    "country": "Turkey",
+    "city": "Konya"
+  },
+  {
+    "country": "Turkey",
+    "city": "Ankara"
+  },
+  {
+    "country": "Turkey",
+    "city": "Denizli"
+  },
+  {
+    "country": "Turkey",
+    "city": "Afyonkarahisar"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kahramanmaraş"
+  },
+  {
+    "country": "Turkey",
+    "city": "Ağrı"
+  },
+  {
+    "country": "Turkey",
+    "city": "Erzurum"
+  },
+  {
+    "country": "Turkey",
+    "city": "Osmaniye"
+  },
+  {
+    "country": "Turkey",
+    "city": "Aksaray"
+  },
+  {
+    "country": "Turkey",
+    "city": "Gaziantep"
+  },
+  {
+    "country": "Turkey",
+    "city": "Niğde"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kırşehir"
+  },
+  {
+    "country": "Turkey",
+    "city": "Malatya"
+  },
+  {
+    "country": "Turkey",
+    "city": "Batman"
+  },
+  {
+    "country": "Turkey",
+    "city": "Adana"
+  },
+  {
+    "country": "Turkey",
+    "city": "Elazığ"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kırıkkale"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kilis"
+  },
+  {
+    "country": "Turkey",
+    "city": "Karaman"
+  },
+  {
+    "country": "Turkey",
+    "city": "Adıyaman"
+  },
+  {
+    "country": "Turkey",
+    "city": "Iğdır"
+  },
+  {
+    "country": "Turkey",
+    "city": "Çanakkale Province"
+  },
+  {
+    "country": "Turkey",
+    "city": "Eskişehir"
+  },
+  {
+    "country": "Turkey",
+    "city": "Burdur"
+  },
+  {
+    "country": "Turkey",
+    "city": "Bilecik"
+  },
+  {
+    "country": "Turkey",
+    "city": "Zonguldak"
+  },
+  {
+    "country": "Turkey",
+    "city": "Tokat"
+  },
+  {
+    "country": "Turkey",
+    "city": "Istanbul"
+  },
+  {
+    "country": "Turkey",
+    "city": "Trabzon"
+  },
+  {
+    "country": "Turkey",
+    "city": "Bursa"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kocaeli"
+  },
+  {
+    "country": "Turkey",
+    "city": "Yalova"
+  },
+  {
+    "country": "Turkey",
+    "city": "Samsun"
+  },
+  {
+    "country": "Turkey",
+    "city": "Edirne"
+  },
+  {
+    "country": "Turkey",
+    "city": "Ordu"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kastamonu"
+  },
+  {
+    "country": "Turkey",
+    "city": "Giresun"
+  },
+  {
+    "country": "Turkey",
+    "city": "Tekirdağ"
+  },
+  {
+    "country": "Turkey",
+    "city": "Amasya"
+  },
+  {
+    "country": "Turkey",
+    "city": "Çorum"
+  },
+  {
+    "country": "Turkey",
+    "city": "Sinop"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kars"
+  },
+  {
+    "country": "Turkey",
+    "city": "Sakarya"
+  },
+  {
+    "country": "Turkey",
+    "city": "Karabük"
+  },
+  {
+    "country": "Turkey",
+    "city": "Rize"
+  },
+  {
+    "country": "Turkey",
+    "city": "Kırklareli"
+  },
+  {
+    "country": "Turkey",
+    "city": "Gümüşhane"
+  },
+  {
+    "country": "Turkey",
+    "city": "Artvin"
+  },
+  {
+    "country": "Turkey",
+    "city": "Bolu"
+  },
+  {
+    "country": "Turkey",
+    "city": "Düzce"
+  },
+  {
+    "country": "Turkey",
+    "city": "Çankırı"
+  },
+  {
+    "country": "Turkey",
+    "city": "Bayburt"
+  },
+  {
+    "country": "Turkey",
+    "city": "Bartın"
+  },
+  {
+    "country": "Turkey",
+    "city": "Ardahan"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "Tunapuna/Piarco"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "Tobago"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "Sangre Grande"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "City of San Fernando"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "Mayaro"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "City of Port of Spain"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "Point Fortin"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "San Juan/Laventille"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "Chaguanas"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "city": "Borough of Arima"
+  },
+  {
+    "country": "Tuvalu",
+    "city": "Funafuti"
+  },
+  {
+    "country": "Taiwan",
+    "city": "Taiwan"
+  },
+  {
+    "country": "Taiwan",
+    "city": "Taipei"
+  },
+  {
+    "country": "Taiwan",
+    "city": "Kaohsiung"
+  },
+  {
+    "country": "Taiwan",
+    "city": "Fukien"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Zanzibar Urban/West"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Pemba North"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Mbeya"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Pwani"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Geita"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Kigoma"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Katavi"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Mwanza"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Arusha"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Tabora"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Shinyanga"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Mara"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Tanga"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Rukwa"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Simiyu"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Zanzibar Central/South"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Singida"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Kilimanjaro"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Kagera"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Njombe"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Morogoro"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Manyara"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Dodoma"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Ruvuma"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Dar es Salaam"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Iringa"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Lindi"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Pemba South"
+  },
+  {
+    "country": "Tanzania",
+    "city": "Mtwara"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Sumy"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Donetsk"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Zaporizhia"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Cherkasy"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Lviv"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Kirovohrad"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Kharkiv"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Zhytomyr"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Vinnyts'ka"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Dnipropetrovsk"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Rivne"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Odessa"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Crimea"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Kiev"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Zakarpattia"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Mykolaiv"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Volyn"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Kherson"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Ternopil"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Luhansk"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Khmelnytskyi"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Misto Sevastopol’"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Chernihiv"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Poltava"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Ivano-Frankivsk"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Kyiv City"
+  },
+  {
+    "country": "Ukraine",
+    "city": "Chernivtsi"
+  },
+  {
+    "country": "United States",
+    "city": "Virginia"
+  },
+  {
+    "country": "United States",
+    "city": "Alabama"
+  },
+  {
+    "country": "United States",
+    "city": "Kentucky"
+  },
+  {
+    "country": "United States",
+    "city": "Arkansas"
+  },
+  {
+    "country": "United States",
+    "city": "Washington, D.C."
+  },
+  {
+    "country": "United States",
+    "city": "Delaware"
+  },
+  {
+    "country": "United States",
+    "city": "Florida"
+  },
+  {
+    "country": "United States",
+    "city": "Georgia"
+  },
+  {
+    "country": "United States",
+    "city": "Illinois"
+  },
+  {
+    "country": "United States",
+    "city": "Indiana"
+  },
+  {
+    "country": "United States",
+    "city": "Kansas"
+  },
+  {
+    "country": "United States",
+    "city": "Louisiana"
+  },
+  {
+    "country": "United States",
+    "city": "Missouri"
+  },
+  {
+    "country": "United States",
+    "city": "Mississippi"
+  },
+  {
+    "country": "United States",
+    "city": "North Carolina"
+  },
+  {
+    "country": "United States",
+    "city": "New Jersey"
+  },
+  {
+    "country": "United States",
+    "city": "Ohio"
+  },
+  {
+    "country": "United States",
+    "city": "Oklahoma"
+  },
+  {
+    "country": "United States",
+    "city": "Pennsylvania"
+  },
+  {
+    "country": "United States",
+    "city": "South Carolina"
+  },
+  {
+    "country": "United States",
+    "city": "Tennessee"
+  },
+  {
+    "country": "United States",
+    "city": "Texas"
+  },
+  {
+    "country": "United States",
+    "city": "Connecticut"
+  },
+  {
+    "country": "United States",
+    "city": "Iowa"
+  },
+  {
+    "country": "United States",
+    "city": "Massachusetts"
+  },
+  {
+    "country": "United States",
+    "city": "Maine"
+  },
+  {
+    "country": "United States",
+    "city": "Michigan"
+  },
+  {
+    "country": "United States",
+    "city": "Minnesota"
+  },
+  {
+    "country": "United States",
+    "city": "North Dakota"
+  },
+  {
+    "country": "United States",
+    "city": "Nebraska"
+  },
+  {
+    "country": "United States",
+    "city": "New Hampshire"
+  },
+  {
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "country": "United States",
+    "city": "Rhode Island"
+  },
+  {
+    "country": "United States",
+    "city": "South Dakota"
+  },
+  {
+    "country": "United States",
+    "city": "Vermont"
+  },
+  {
+    "country": "United States",
+    "city": "Wisconsin"
+  },
+  {
+    "country": "United States",
+    "city": "West Virginia"
+  },
+  {
+    "country": "United States",
+    "city": "California"
+  },
+  {
+    "country": "United States",
+    "city": "Arizona"
+  },
+  {
+    "country": "United States",
+    "city": "Colorado"
+  },
+  {
+    "country": "United States",
+    "city": "New Mexico"
+  },
+  {
+    "country": "United States",
+    "city": "Nevada"
+  },
+  {
+    "country": "United States",
+    "city": "Utah"
+  },
+  {
+    "country": "United States",
+    "city": "Alaska"
+  },
+  {
+    "country": "United States",
+    "city": "Idaho"
+  },
+  {
+    "country": "United States",
+    "city": "Oregon"
+  },
+  {
+    "country": "United States",
+    "city": "Washington"
+  },
+  {
+    "country": "United States",
+    "city": "Wyoming"
+  },
+  {
+    "country": "United States",
+    "city": "Hawaii"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Río Negro"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Flores"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Treinta y Tres"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Tacuarembó"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Canelones"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Maldonado"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Salto"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Rocha"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Rivera"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Paysandú"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Montevideo"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Lavalleja"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Soriano"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Cerro Largo"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Durazno"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Colonia"
+  },
+  {
+    "country": "Uruguay",
+    "city": "Artigas"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Karakalpakstan"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Jizzax"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Samarqand"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Surxondaryo"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Qashqadaryo"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Bukhara"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Toshkent"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Fergana"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Sirdaryo"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Navoiy"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Namangan"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Xorazm"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Toshkent Shahri"
+  },
+  {
+    "country": "Uzbekistan",
+    "city": "Andijon"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Nueva Esparta"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Anzoátegui"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Barinas"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Guárico"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Yaracuy"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Aragua"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Portuguesa"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Trujillo"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Carabobo"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Delta Amacuro"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Cojedes"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Táchira"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Miranda"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Zulia"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Lara"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Falcón"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Mérida"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Vargas"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Capital"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Monagas"
+  },
+  {
+    "country": "Venezuela",
+    "city": "Apure"
+  },
+  {
+    "country": "U.S. Virgin Islands",
+    "city": "Saint Thomas Island"
+  },
+  {
+    "country": "U.S. Virgin Islands",
+    "city": "Saint Croix Island"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Nghệ An"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Yên Bái"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hau Giang"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Vĩnh Phúc"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Vĩnh Long"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Phú Thọ"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Quảng Ninh"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Phú Yên"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Tuyên Quang"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Trà Vinh"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bình Dương"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Thanh Hóa"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Thái Nguyên"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Thái Bình"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Tây Ninh"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Long An"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Quảng Nam"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Ha Nội"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Sơn La"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Sóc Trăng"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Lào Cai"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Đồng Tháp"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Kiến Giang"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bình Định"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Quảng Ngãi"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Gia Lai"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hà Nam"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bình Thuận"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Ninh Thuận"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Ninh Bình"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Khánh Hòa"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Nam Định"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Tiền Giang"
+  },
+  {
+    "country": "Vietnam",
+    "city": "An Giang"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Lạng Sơn"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Kon Tum"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hưng Yên"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Thừa Thiên-Huế"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hòa Bình"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hà Tĩnh"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hải Phòng"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hải Dương"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Hà Giang"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bình Phước"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Quảng Bình"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Quảng Trị"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Tỉnh Ðiện Biên"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Đà Nẵng"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Lâm Đồng"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Cao Bằng"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Cần Thơ"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Cà Mau"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Ðắc Lắk"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Đồng Nai"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bến Tre"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bắc Ninh"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bạc Liêu"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bắc Giang"
+  },
+  {
+    "country": "Vietnam",
+    "city": "Bắc Kạn"
+  },
+  {
+    "country": "Vanuatu",
+    "city": "Shefa"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "city": "Circonscription d'Uvéa"
+  },
+  {
+    "country": "Samoa",
+    "city": "Tuamasaga"
+  },
+  {
+    "country": "Kosovo",
+    "city": "Mitrovica"
+  },
+  {
+    "country": "Kosovo",
+    "city": "Gjilan"
+  },
+  {
+    "country": "Kosovo",
+    "city": "Ferizaj"
+  },
+  {
+    "country": "Kosovo",
+    "city": "Prizren"
+  },
+  {
+    "country": "Kosovo",
+    "city": "Pristina"
+  },
+  {
+    "country": "Kosovo",
+    "city": "Pec"
+  },
+  {
+    "country": "Kosovo",
+    "city": "Gjakova"
+  },
+  {
+    "country": "Yemen",
+    "city": "Abyan"
+  },
+  {
+    "country": "Yemen",
+    "city": "Muḩāfaz̧at al Ḩudaydah"
+  },
+  {
+    "country": "Yemen",
+    "city": "Ibb"
+  },
+  {
+    "country": "Yemen",
+    "city": "Ta‘izz"
+  },
+  {
+    "country": "Yemen",
+    "city": "Sanaa"
+  },
+  {
+    "country": "Yemen",
+    "city": "Şa‘dah"
+  },
+  {
+    "country": "Yemen",
+    "city": "Ma’rib"
+  },
+  {
+    "country": "Yemen",
+    "city": "Laḩij"
+  },
+  {
+    "country": "Yemen",
+    "city": "Ḩajjah"
+  },
+  {
+    "country": "Yemen",
+    "city": "Dhamār"
+  },
+  {
+    "country": "Yemen",
+    "city": "Shabwah"
+  },
+  {
+    "country": "Yemen",
+    "city": "Omran"
+  },
+  {
+    "country": "Yemen",
+    "city": "Muḩāfaz̧at Ḩaḑramawt"
+  },
+  {
+    "country": "Yemen",
+    "city": "Al Bayḑāʼ"
+  },
+  {
+    "country": "Yemen",
+    "city": "Aden"
+  },
+  {
+    "country": "Mayotte",
+    "city": "Mamoudzou"
+  },
+  {
+    "country": "Mayotte",
+    "city": "Dzaoudzi"
+  },
+  {
+    "country": "Mayotte",
+    "city": "Koungou"
+  },
+  {
+    "country": "South Africa",
+    "city": "Gauteng"
+  },
+  {
+    "country": "South Africa",
+    "city": "North-West"
+  },
+  {
+    "country": "South Africa",
+    "city": "Mpumalanga"
+  },
+  {
+    "country": "South Africa",
+    "city": "Orange Free State"
+  },
+  {
+    "country": "South Africa",
+    "city": "Northern Cape"
+  },
+  {
+    "country": "South Africa",
+    "city": "Limpopo"
+  },
+  {
+    "country": "South Africa",
+    "city": "KwaZulu-Natal"
+  },
+  {
+    "country": "South Africa",
+    "city": "Eastern Cape"
+  },
+  {
+    "country": "South Africa",
+    "city": "Western Cape"
+  },
+  {
+    "country": "Zambia",
+    "city": "Luapula"
+  },
+  {
+    "country": "Zambia",
+    "city": "Copperbelt"
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka"
+  },
+  {
+    "country": "Zambia",
+    "city": "North-Western"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Masvingo"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Matabeleland North"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Midlands"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Manicaland"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Mashonaland West"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Mashonaland East"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Bulawayo"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Mashonaland Central"
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Matabeleland South"
+  }
+]

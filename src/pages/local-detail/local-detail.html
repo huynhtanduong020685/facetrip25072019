@@ -1,0 +1,200 @@
+<ion-header>
+  <ion-navbar color="color-header">
+    <!-- <ion-buttons left>
+        <button (tap)="back()" ion-button icon-only clear>
+          <ion-icon name="md-arrow-back"></ion-icon>
+        </button>
+      </ion-buttons> -->
+    <ion-title>
+      FACE TRIP
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+    <ion-card-content>
+      <ion-grid>
+        <ion-row>
+          <ion-col col-8>
+            <ion-grid>
+              <ion-row>
+                <ion-col>
+                  <b>{{user['name']}}</b>
+                </ion-col>
+              </ion-row>
+              <ion-row>
+                <ion-col *ngIf="user['city']; else elsecity" col-auto>
+                  <span class="label">{{user['city']}}, {{user['country']}}</span>
+                </ion-col>
+                <ng-template #elsecity>
+                  <ion-col col-auto><span class="label">{{user['country']}}</span>
+                  </ion-col>
+                </ng-template>
+              </ion-row>
+              <ion-row align-items-end>
+                <ion-col col-auto>
+                  <span class="label">{{user['language1']}}</span>
+                </ion-col>
+                <ion-col *ngIf="user['language2']" col-auto>
+                  <span class="label">, {{user['language2']}}</span>
+                </ion-col>
+                <ion-col *ngIf="user['language3']" col-auto>
+                  <span class="label">, {{user['language3']}}</span>
+                </ion-col>
+                <ion-col *ngIf="user['language4'] " col-auto>
+                  <span class="label">, {{user['language4']}}</span>
+                </ion-col>
+              </ion-row>
+              <ion-row>
+                <ion-col *ngIf="user['guide_fee'] > 0; else elseguide" col-auto>
+                  <span class="label">GUIDE: ${{user['guide_fee']}}</span>
+                </ion-col>
+                <ng-template #elseguide>
+                  <ion-col col-auto><span class="label">GUIDE: Free</span>
+                  </ion-col>
+                </ng-template>
+              </ion-row>
+              <ion-row>
+                <ion-col>
+                  <ion-col *ngIf="user['meet_at_airport'] === 'true'; else elseairport" col-auto>
+                    <span class="label">Meet at the Airport: POSSIBLE</span></ion-col>
+                  <ng-template #elseairport>
+                    <ion-col col-auto>
+                      <span class="label">Meet at the Airport: IMPOSSIBLE</span>
+                    </ion-col>
+                  </ng-template>
+                </ion-col>
+              </ion-row>
+              <ion-row>
+                <ion-col col-auto>
+                  <span class="label">INTEREST: {{user['interest']}}</span>
+                </ion-col>
+              </ion-row>
+            </ion-grid>
+          </ion-col>
+        </ion-row>
+        <ion-row>
+          <ion-col text-right style="justify-content: flex-end">
+            <button (tap)="openBrowser(user['fb_id'])" color="facebook" ion-button icon-only clear>
+              <ion-icon name="logo-facebook"></ion-icon>
+            </button>
+            <button (tap)="goToChat()" color="_gray" ion-button icon-only
+              clear>
+              <ion-icon name="md-chatboxes"></ion-icon>
+            </button>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+      <img *ngIf="!user['pictures']" [src]="user['picture']+'?type=normal'" alt="">
+      <ion-slides *ngIf="user['pictures']" pager="true">
+        <ng-container *ngFor="let pic of pictures">
+          <ion-slide *ngIf="pic.length>0">
+            <img [src]="pic" alt="">
+          </ion-slide>
+        </ng-container>
+      </ion-slides>
+      <ion-textarea rows="3" [(ngModel)]="user['introduction']" disabled></ion-textarea>
+    </ion-card-content>
+  </ion-card>
+  <ion-list>
+    <ion-item-divider>
+      Homestay
+    </ion-item-divider>
+  </ion-list>
+  <div class="homestay" *ngIf="user['homestay']">
+    <div class="uploads">
+      <img *ngIf="!user['homestay']['pictures']" [src]="user['homestay']['picture']" alt="">
+      <ion-slides *ngIf="user['homestay']['pictures']" pager="true">
+        <ng-container *ngFor="let pic of getPictures(user['homestay']['pictures'])">
+          <ion-slide>
+            <img [src]="pic" alt="">
+          </ion-slide>
+        </ng-container>
+      </ion-slides>
+    </div>
+    <ion-grid class="homestay-desc">
+      <ion-row>
+        <ion-col>Locaiton</ion-col>
+        <ion-col>{{user['homestay']['location']}}</ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>Daily Price</ion-col>
+        <ion-col>{{user['homestay']['price']|currency:'USD'}}</ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>Wifi</ion-col>
+        <ion-col>{{user['homestay']['wifi']? 'Yes': 'No'}}</ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>Breakfast</ion-col>
+        <ion-col>{{user['homestay']['breakfast'] ? 'Yes': 'No'}}</ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <p>{{user['homestay']['description']}}</p>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+    <ion-item-divider>Reviews</ion-item-divider>
+
+    <ion-list *ngIf="listComment">
+      <ion-item *ngFor="let review of listComment">
+        <div class="star-show">
+          <h2>{{review.name}}</h2>
+          <button ion-button icon-only clear disabled>
+            <ion-icon name="ios-star-outline" *ngIf="review.star==0"></ion-icon>
+            <ion-icon name="ios-star" *ngIf="review.star>0"></ion-icon>
+          </button>
+          <button ion-button icon-only clear disabled>
+            <ion-icon name="ios-star-outline" *ngIf="review.star<=1"></ion-icon>
+            <ion-icon name="ios-star" *ngIf="review.star>1"></ion-icon>
+          </button>
+          <button ion-button icon-only clear disabled>
+            <ion-icon name="ios-star-outline" *ngIf="review.star<=2"></ion-icon>
+            <ion-icon name="ios-star" *ngIf="review.star>2"></ion-icon>
+          </button>
+          <button ion-button icon-only clear disabled>
+            <ion-icon name="ios-star-outline" *ngIf="review.star<=3"></ion-icon>
+            <ion-icon name="ios-star" *ngIf="review.star>3"></ion-icon>
+          </button>
+          <button ion-button icon-only clear disabled>
+            <ion-icon name="ios-star-outline" *ngIf="review.star<=4"></ion-icon>
+            <ion-icon name="ios-star" *ngIf="review.star>4"></ion-icon>
+          </button>
+        </div>
+        <p>{{review.comment}}</p>
+        <p>{{review.time}}</p>
+      </ion-item>
+    </ion-list>
+
+
+    <p>Write your Review</p>
+    <div class="star">
+      <button ion-button icon-only clear (click)="clickStar(1)">
+        <ion-icon name="ios-star-outline" *ngIf="ratingCheck==0"></ion-icon>
+        <ion-icon name="ios-star" *ngIf="ratingCheck>0"></ion-icon>
+      </button>
+      <button ion-button icon-only clear (click)="clickStar(2)">
+        <ion-icon name="ios-star-outline" *ngIf="ratingCheck<=1"></ion-icon>
+        <ion-icon name="ios-star" *ngIf="ratingCheck>1"></ion-icon>
+      </button>
+      <button ion-button icon-only clear (click)="clickStar(3)">
+        <ion-icon name="ios-star-outline" *ngIf="ratingCheck<=2"></ion-icon>
+        <ion-icon name="ios-star" *ngIf="ratingCheck>2"></ion-icon>
+      </button>
+      <button ion-button icon-only clear (click)="clickStar(4)">
+        <ion-icon name="ios-star-outline" *ngIf="ratingCheck<=3"></ion-icon>
+        <ion-icon name="ios-star" *ngIf="ratingCheck>3"></ion-icon>
+      </button>
+      <button ion-button icon-only clear (click)="clickStar(5)">
+        <ion-icon name="ios-star-outline" *ngIf="ratingCheck<=4"></ion-icon>
+        <ion-icon name="ios-star" *ngIf="ratingCheck>4"></ion-icon>
+      </button>
+    </div>
+    <ion-textarea placeholder="Write your comment for this homestay" [(ngModel)]="comment" rows="4"></ion-textarea>
+    <button (tap)="addReview()" ion-button small>Submit</button>
+    <br>
+  </div>
+
+</ion-content>
